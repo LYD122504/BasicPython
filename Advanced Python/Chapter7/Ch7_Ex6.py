@@ -54,3 +54,18 @@ print(portfolio)
 from tableformat import create_formatter,print_table
 formatter=create_formatter('text')
 print_table(portfolio,['name','shares','price'],formatter)
+
+class meta(type):
+    _instance=None
+    def __call__(cls,*args,**kwargs):
+        if not cls._instance:
+            cls._instance=super().__call__(*args,**kwargs)
+        return cls._instance
+class Spam(metaclass=meta):
+    def __init__(self,name):
+        print('Creating Spam')
+        self.name=name
+s=Spam('Test')
+s1=Spam('Test1')
+print(s1.name)
+print(id(s)==id(s1))
