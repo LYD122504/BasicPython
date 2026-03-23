@@ -44,11 +44,6 @@
 
 - 完整笔记PDF: [Advanced Python](/Advanced%20Python/Note/advanced_python.pdf)
 
-###  智能仓储笔记
-
-  - 项目简介: [项目简介](/Project/Note/Readme.md)
-  - 项目知识: [项目笔记](/Project/Note/Note.md)
-
 ## 更新日程	
 
 ### Pratical Python
@@ -67,7 +62,3 @@
 - 2026.03.19 上传第八章的代码笔记
 - 2026.03.22 上传第九章的代码笔记
 - 2026.02.05-2026.03.22 完成全部Advanced Python代码和笔记
-
-###  智能仓储项目
-
-- 2026.03.23 上传智能仓储项目代码
