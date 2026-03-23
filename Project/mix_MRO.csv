@@ -1,0 +1,1001 @@
+type,name,price,stock,extra_attr,brand,expiry_date,tax_rate
+LuxuryFresh,Wagyu Beef_0,12742.46,223,6.95,Apple,2026-04-20,0.05
+Digital,Windows 12 Key_1,36163.91,298,4966.44,Apple,2026-04-14,0.1
+Physical,iPhone 17_2,48621.11,382,5.32,Apple,2026-03-21,0.15
+Physical,Premium Cherry_3,38469.0,296,3.17,Nintendo,2026-03-22,0.05
+Physical,Premium Cherry_4,45500.26,2,1.35,Generic,2026-03-24,0.1
+LuxuryFresh,Premium Cherry_5,17512.69,31,7.31,Nintendo,2026-03-27,0.15
+LuxuryFresh,Premium Cherry_6,5377.9,487,3.16,Hermes,2026-03-15,0.15
+LuxuryFresh,iPhone 17_7,21303.95,220,2.81,Generic,2026-03-26,0.1
+Digital,Python Mastery Course_8,4434.89,46,953.04,Generic,2026-03-16,0.05
+Physical,Hermes Scarf_9,24128.33,235,9.49,Nintendo,2026-03-14,0.2
+Digital,Python Mastery Course_10,42098.31,241,3095.86,Generic,2026-04-10,0.15
+LuxuryFresh,Hermes Scarf_11,27417.72,114,5.88,Apple,2026-03-31,0.1
+Physical,Premium Cherry_12,13636.22,496,5.26,Generic,2026-03-21,0.1
+LuxuryFresh,Premium Cherry_13,6639.89,107,2.75,Hermes,2026-04-11,0.1
+Digital,Eldon Ring DLC_14,44741.24,176,4020.77,Apple,2026-04-03,0.2
+Physical,Premium Cherry_15,27475.52,124,8.91,Hermes,2026-04-08,0.1
+Digital,Windows 12 Key_16,33586.98,238,1395.77,Apple,2026-04-06,0.2
+LuxuryFresh,Wagyu Beef_17,14532.6,35,9.63,Nintendo,2026-04-07,0.05
+LuxuryFresh,MacBook_18,8295.24,25,9.05,Hermes,2026-03-16,0.05
+LuxuryFresh,Premium Cherry_19,7707.99,277,9.49,Apple,2026-03-29,0.05
+Digital,Eldon Ring DLC_20,2878.42,311,4286.21,Apple,2026-04-08,0.15
+Physical,Premium Cherry_21,27067.85,464,6.93,Nintendo,2026-03-27,0.1
+Physical,Wagyu Beef_22,26518.31,83,9.63,Nintendo,2026-03-21,0.1
+LuxuryFresh,Wagyu Beef_23,40897.35,98,6.2,Generic,2026-03-18,0.2
+Physical,iPhone 17_24,18546.12,242,1.66,Generic,2026-04-17,0.05
+LuxuryFresh,MacBook_25,37889.74,463,1.28,Hermes,2026-04-17,0.05
+Digital,Python Mastery Course_26,48555.7,260,4512.45,Generic,2026-04-04,0.15
+Digital,Windows 12 Key_27,46045.39,357,3335.92,Generic,2026-03-18,0.15
+LuxuryFresh,MacBook_28,30591.18,362,0.66,Apple,2026-04-20,0.1
+Digital,Python Mastery Course_29,3204.7,118,3490.69,Generic,2026-04-02,0.1
+LuxuryFresh,Wagyu Beef_30,29442.85,104,4.91,Hermes,2026-03-19,0.05
+LuxuryFresh,MacBook_31,6587.74,293,8.03,Nintendo,2026-03-29,0.2
+LuxuryFresh,Hermes Scarf_32,36991.75,348,2.26,Generic,2026-03-17,0.05
+Digital,Python Mastery Course_33,45401.69,353,4746.65,Apple,2026-04-03,0.1
+LuxuryFresh,Premium Cherry_34,9760.77,212,7.79,Hermes,2026-04-10,0.1
+LuxuryFresh,Premium Cherry_35,20206.96,77,0.48,Generic,2026-04-20,0.2
+Digital,Eldon Ring DLC_36,44754.35,121,1160.26,Apple,2026-04-03,0.1
+LuxuryFresh,MacBook_37,3679.19,86,5.19,Nintendo,2026-04-18,0.2
+Physical,MacBook_38,912.8,319,8.69,Generic,2026-03-17,0.1
+Physical,MacBook_39,23736.29,127,6.79,Generic,2026-03-18,0.2
+Physical,Premium Cherry_40,37504.76,379,5.5,Apple,2026-04-01,0.15
+LuxuryFresh,Hermes Scarf_41,26671.02,255,9.77,Nintendo,2026-04-12,0.1
+LuxuryFresh,MacBook_42,1395.02,166,5.36,Nintendo,2026-03-20,0.15
+Physical,MacBook_43,25305.82,52,5.39,Apple,2026-04-03,0.05
+LuxuryFresh,Hermes Scarf_44,42922.97,118,7.58,Nintendo,2026-04-21,0.1
+LuxuryFresh,MacBook_45,22794.37,136,1.71,Apple,2026-04-18,0.1
+Physical,iPhone 17_46,36669.75,184,7.74,Nintendo,2026-04-06,0.05
+Physical,Premium Cherry_47,36058.15,389,8.14,Hermes,2026-04-11,0.2
+Digital,Windows 12 Key_48,9764.08,308,1182.4,Hermes,2026-04-11,0.05
+Digital,Python Mastery Course_49,44866.29,233,4964.06,Hermes,2026-04-01,0.15
+Digital,Windows 12 Key_50,20950.72,197,4323.17,Apple,2026-03-16,0.2
+Physical,iPhone 17_51,262.09,94,9.79,Nintendo,2026-03-31,0.1
+Physical,Hermes Scarf_52,866.34,229,8.35,Generic,2026-04-04,0.1
+LuxuryFresh,iPhone 17_53,32326.65,150,8.95,Hermes,2026-03-13,0.15
+Physical,MacBook_54,18745.21,152,8.48,Nintendo,2026-04-05,0.05
+Physical,Wagyu Beef_55,21806.52,107,3.39,Nintendo,2026-04-18,0.15
+Physical,Wagyu Beef_56,11567.96,251,3.02,Hermes,2026-04-17,0.2
+Physical,iPhone 17_57,19545.0,191,9.45,Apple,2026-03-16,0.1
+Digital,Windows 12 Key_58,29230.93,250,2691.02,Hermes,2026-04-13,0.15
+LuxuryFresh,MacBook_59,48298.41,145,6.39,Nintendo,2026-03-17,0.15
+Digital,Python Mastery Course_60,8293.53,306,4086.96,Nintendo,2026-03-25,0.05
+Digital,Eldon Ring DLC_61,31141.01,226,2711.15,Apple,2026-04-06,0.15
+Physical,iPhone 17_62,18011.66,400,8.21,Generic,2026-04-08,0.15
+LuxuryFresh,Hermes Scarf_63,15472.66,25,0.71,Generic,2026-03-28,0.15
+Digital,Windows 12 Key_64,15876.05,170,3047.52,Nintendo,2026-03-24,0.15
+Digital,Python Mastery Course_65,8142.08,265,1891.88,Apple,2026-04-01,0.1
+Digital,Eldon Ring DLC_66,44143.91,100,2952.55,Nintendo,2026-03-25,0.05
+Digital,Python Mastery Course_67,43894.24,334,355.96,Generic,2026-03-29,0.05
+Digital,Eldon Ring DLC_68,26446.31,20,2355.12,Hermes,2026-03-15,0.15
+Physical,MacBook_69,41597.47,20,0.5,Generic,2026-04-15,0.2
+Physical,MacBook_70,20361.72,420,5.18,Apple,2026-04-02,0.05
+Digital,Windows 12 Key_71,35822.41,33,4123.59,Generic,2026-03-29,0.2
+Physical,Wagyu Beef_72,48923.81,12,6.31,Nintendo,2026-03-20,0.1
+LuxuryFresh,Premium Cherry_73,32487.23,281,8.32,Apple,2026-03-30,0.2
+Physical,iPhone 17_74,7673.21,36,2.25,Apple,2026-04-19,0.15
+Digital,Windows 12 Key_75,42694.78,48,2402.46,Nintendo,2026-04-17,0.2
+LuxuryFresh,Hermes Scarf_76,9804.52,237,7.69,Nintendo,2026-04-08,0.05
+Physical,iPhone 17_77,10776.72,361,3.75,Generic,2026-04-18,0.05
+Physical,iPhone 17_78,10647.37,250,4.39,Generic,2026-04-04,0.05
+Digital,Python Mastery Course_79,42695.15,202,3301.21,Generic,2026-03-18,0.1
+Digital,Python Mastery Course_80,43682.25,255,3296.43,Nintendo,2026-04-09,0.1
+LuxuryFresh,MacBook_81,47827.29,16,8.61,Nintendo,2026-03-27,0.05
+Digital,Python Mastery Course_82,45511.45,275,4169.11,Nintendo,2026-03-12,0.05
+Digital,Eldon Ring DLC_83,36649.44,224,2576.03,Nintendo,2026-04-14,0.15
+LuxuryFresh,Hermes Scarf_84,5620.74,401,7.66,Hermes,2026-03-27,0.05
+Digital,Eldon Ring DLC_85,2291.0,146,4561.95,Apple,2026-04-10,0.2
+LuxuryFresh,Hermes Scarf_86,6235.91,469,7.1,Nintendo,2026-03-28,0.05
+LuxuryFresh,MacBook_87,45112.04,328,8.92,Apple,2026-04-21,0.2
+LuxuryFresh,Premium Cherry_88,38479.65,446,9.36,Nintendo,2026-04-15,0.15
+Physical,Hermes Scarf_89,29756.51,319,2.46,Apple,2026-04-15,0.2
+Digital,Python Mastery Course_90,20227.68,260,3133.68,Apple,2026-03-19,0.2
+LuxuryFresh,Wagyu Beef_91,4138.48,14,7.43,Apple,2026-04-04,0.1
+Physical,Premium Cherry_92,27883.27,181,5.29,Nintendo,2026-04-20,0.05
+LuxuryFresh,MacBook_93,29839.16,38,3.81,Apple,2026-03-30,0.2
+Physical,Premium Cherry_94,38680.66,171,1.18,Nintendo,2026-04-07,0.2
+Digital,Windows 12 Key_95,18147.32,261,3458.37,Apple,2026-03-18,0.2
+Digital,Eldon Ring DLC_96,25399.15,397,4917.79,Generic,2026-03-25,0.15
+Physical,Wagyu Beef_97,25899.93,191,4.8,Apple,2026-03-24,0.2
+Physical,Hermes Scarf_98,11238.77,353,1.43,Apple,2026-03-26,0.15
+Physical,Hermes Scarf_99,46773.14,370,3.14,Hermes,2026-03-16,0.05
+Digital,Eldon Ring DLC_100,36225.58,31,340.81,Apple,2026-04-02,0.2
+LuxuryFresh,MacBook_101,560.68,104,4.7,Nintendo,2026-03-29,0.15
+LuxuryFresh,Wagyu Beef_102,24958.44,94,9.16,Generic,2026-03-13,0.05
+Physical,MacBook_103,28486.15,418,2.48,Generic,2026-04-15,0.15
+LuxuryFresh,iPhone 17_104,11815.55,442,2.51,Hermes,2026-04-21,0.15
+Physical,Wagyu Beef_105,30645.15,388,7.72,Hermes,2026-04-13,0.15
+Physical,MacBook_106,44063.02,479,0.46,Nintendo,2026-04-12,0.15
+Physical,iPhone 17_107,43173.22,478,2.32,Hermes,2026-04-04,0.1
+Digital,Python Mastery Course_108,45670.91,387,1374.42,Generic,2026-03-17,0.15
+Digital,Eldon Ring DLC_109,18288.5,215,3239.62,Apple,2026-04-15,0.15
+Physical,MacBook_110,7702.15,45,1.51,Nintendo,2026-04-20,0.1
+Digital,Windows 12 Key_111,6198.0,42,1142.32,Nintendo,2026-03-30,0.1
+Digital,Windows 12 Key_112,45860.23,286,860.54,Generic,2026-03-23,0.1
+Physical,MacBook_113,9092.26,27,0.29,Generic,2026-04-10,0.2
+Digital,Eldon Ring DLC_114,48695.48,341,4844.43,Generic,2026-04-21,0.15
+Physical,MacBook_115,37715.35,18,8.27,Nintendo,2026-04-07,0.1
+LuxuryFresh,iPhone 17_116,39536.68,89,1.07,Hermes,2026-03-26,0.15
+LuxuryFresh,MacBook_117,29318.23,195,9.0,Apple,2026-04-13,0.15
+LuxuryFresh,iPhone 17_118,46956.28,305,7.84,Nintendo,2026-04-04,0.15
+LuxuryFresh,Premium Cherry_119,41424.42,94,6.37,Apple,2026-04-15,0.05
+Physical,iPhone 17_120,40800.51,159,1.52,Generic,2026-03-26,0.1
+Physical,Hermes Scarf_121,39233.58,15,9.5,Generic,2026-03-16,0.15
+Digital,Windows 12 Key_122,28288.32,363,2588.12,Generic,2026-04-13,0.2
+LuxuryFresh,Wagyu Beef_123,3249.6,24,7.76,Hermes,2026-04-19,0.2
+Digital,Eldon Ring DLC_124,15269.78,216,4063.84,Hermes,2026-03-29,0.2
+LuxuryFresh,Premium Cherry_125,9193.36,64,0.77,Hermes,2026-04-09,0.2
+Digital,Python Mastery Course_126,24042.36,399,3447.47,Generic,2026-04-01,0.2
+Digital,Python Mastery Course_127,34395.74,116,1344.7,Apple,2026-04-08,0.15
+LuxuryFresh,iPhone 17_128,43145.57,159,0.34,Apple,2026-04-12,0.1
+LuxuryFresh,Hermes Scarf_129,11132.13,440,3.82,Apple,2026-04-17,0.1
+Physical,Hermes Scarf_130,4599.53,59,1.3,Apple,2026-03-19,0.1
+LuxuryFresh,iPhone 17_131,35677.55,185,4.39,Hermes,2026-04-09,0.15
+Digital,Python Mastery Course_132,23989.93,343,2933.27,Hermes,2026-03-12,0.1
+Physical,Wagyu Beef_133,26791.57,414,9.97,Generic,2026-04-07,0.1
+Digital,Eldon Ring DLC_134,44657.16,58,3367.47,Generic,2026-03-17,0.1
+LuxuryFresh,MacBook_135,47234.99,434,2.02,Nintendo,2026-04-21,0.15
+Physical,MacBook_136,1041.94,121,7.82,Generic,2026-04-11,0.2
+Digital,Windows 12 Key_137,31461.16,219,2676.54,Generic,2026-04-05,0.05
+Digital,Python Mastery Course_138,47861.56,66,3545.56,Apple,2026-03-23,0.15
+Physical,Wagyu Beef_139,48667.16,444,5.23,Generic,2026-03-12,0.1
+Digital,Windows 12 Key_140,27512.81,48,520.85,Hermes,2026-03-13,0.1
+Digital,Python Mastery Course_141,32175.8,480,3781.62,Hermes,2026-03-17,0.2
+LuxuryFresh,MacBook_142,23573.11,432,3.92,Apple,2026-03-18,0.2
+Digital,Eldon Ring DLC_143,29059.96,132,3712.51,Generic,2026-04-07,0.15
+LuxuryFresh,Hermes Scarf_144,20320.64,305,7.48,Nintendo,2026-03-16,0.1
+Digital,Python Mastery Course_145,25520.21,123,2002.38,Apple,2026-03-14,0.1
+Digital,Eldon Ring DLC_146,5267.91,10,4463.19,Hermes,2026-04-16,0.2
+LuxuryFresh,Hermes Scarf_147,45309.8,379,1.46,Generic,2026-03-19,0.2
+Physical,MacBook_148,6383.9,98,8.41,Nintendo,2026-04-09,0.1
+Physical,iPhone 17_149,27614.54,364,9.16,Hermes,2026-04-14,0.15
+Physical,MacBook_150,28723.44,168,1.36,Hermes,2026-03-22,0.2
+LuxuryFresh,Premium Cherry_151,29977.28,174,3.83,Apple,2026-04-06,0.15
+Physical,Hermes Scarf_152,17728.75,408,8.27,Generic,2026-04-03,0.05
+LuxuryFresh,Hermes Scarf_153,3017.34,304,7.23,Hermes,2026-03-14,0.2
+LuxuryFresh,Wagyu Beef_154,6447.38,362,6.82,Apple,2026-04-09,0.2
+Physical,Wagyu Beef_155,37182.01,366,7.4,Apple,2026-04-08,0.1
+Digital,Python Mastery Course_156,4480.96,3,192.55,Nintendo,2026-04-16,0.05
+Digital,Windows 12 Key_157,145.59,202,1352.61,Apple,2026-04-16,0.05
+Digital,Windows 12 Key_158,5480.38,457,805.89,Apple,2026-04-06,0.15
+LuxuryFresh,Wagyu Beef_159,227.29,345,5.81,Hermes,2026-04-17,0.2
+Digital,Windows 12 Key_160,4335.02,440,4276.86,Nintendo,2026-03-21,0.2
+Digital,Python Mastery Course_161,44151.3,356,188.22,Hermes,2026-03-16,0.1
+Physical,MacBook_162,48688.48,27,1.0,Nintendo,2026-04-03,0.15
+Physical,Premium Cherry_163,2910.95,436,7.37,Generic,2026-03-27,0.1
+Digital,Python Mastery Course_164,30372.49,124,1998.99,Hermes,2026-04-05,0.2
+Physical,Wagyu Beef_165,29885.83,198,8.26,Hermes,2026-03-25,0.15
+LuxuryFresh,Premium Cherry_166,991.27,339,3.15,Generic,2026-04-21,0.2
+Physical,Wagyu Beef_167,23307.03,95,7.24,Hermes,2026-03-16,0.1
+LuxuryFresh,MacBook_168,18311.96,241,0.56,Generic,2026-04-16,0.15
+Digital,Eldon Ring DLC_169,27789.51,144,2808.84,Generic,2026-04-07,0.1
+Digital,Python Mastery Course_170,13909.49,23,2280.49,Nintendo,2026-03-12,0.2
+Physical,Wagyu Beef_171,30207.66,328,3.44,Nintendo,2026-03-29,0.05
+Digital,Python Mastery Course_172,39562.89,297,3734.45,Apple,2026-04-08,0.15
+Digital,Eldon Ring DLC_173,5779.89,128,4033.7,Nintendo,2026-03-18,0.15
+LuxuryFresh,iPhone 17_174,2518.63,422,0.27,Hermes,2026-03-14,0.15
+LuxuryFresh,MacBook_175,4064.42,22,4.51,Hermes,2026-03-28,0.2
+LuxuryFresh,MacBook_176,16680.82,73,8.32,Apple,2026-03-12,0.15
+Physical,iPhone 17_177,11907.33,186,0.29,Nintendo,2026-04-02,0.1
+Digital,Windows 12 Key_178,10126.21,131,2438.59,Hermes,2026-04-03,0.05
+LuxuryFresh,iPhone 17_179,4306.05,325,8.13,Nintendo,2026-03-29,0.1
+Physical,iPhone 17_180,21638.73,453,6.24,Apple,2026-04-07,0.15
+Digital,Eldon Ring DLC_181,46232.95,358,452.35,Generic,2026-04-11,0.05
+Physical,Wagyu Beef_182,6541.95,146,0.52,Nintendo,2026-03-29,0.05
+LuxuryFresh,Hermes Scarf_183,35296.12,301,8.77,Generic,2026-04-01,0.15
+Digital,Python Mastery Course_184,13721.99,492,497.15,Generic,2026-04-05,0.05
+LuxuryFresh,MacBook_185,20703.77,390,2.66,Apple,2026-03-28,0.2
+Physical,iPhone 17_186,42295.8,356,1.02,Generic,2026-03-12,0.2
+Digital,Windows 12 Key_187,42178.29,266,3351.01,Apple,2026-04-17,0.1
+LuxuryFresh,MacBook_188,15456.1,360,2.02,Hermes,2026-03-24,0.2
+Physical,Hermes Scarf_189,30734.33,425,0.49,Hermes,2026-03-18,0.1
+LuxuryFresh,Premium Cherry_190,36834.53,445,9.92,Generic,2026-03-13,0.15
+Physical,Premium Cherry_191,34942.45,208,7.29,Hermes,2026-03-23,0.1
+LuxuryFresh,MacBook_192,19347.59,311,8.32,Generic,2026-04-21,0.2
+Digital,Eldon Ring DLC_193,12852.6,486,281.28,Hermes,2026-04-10,0.1
+Digital,Python Mastery Course_194,34113.31,477,3534.67,Hermes,2026-04-16,0.2
+Physical,Wagyu Beef_195,24987.79,432,9.41,Nintendo,2026-04-20,0.1
+LuxuryFresh,Premium Cherry_196,23131.76,389,4.62,Apple,2026-03-29,0.1
+LuxuryFresh,iPhone 17_197,34648.05,114,0.85,Apple,2026-04-13,0.15
+Digital,Windows 12 Key_198,44111.8,278,1794.39,Hermes,2026-04-21,0.1
+LuxuryFresh,Hermes Scarf_199,33624.31,304,2.18,Nintendo,2026-04-12,0.05
+Digital,Python Mastery Course_200,12879.73,119,2257.07,Apple,2026-04-20,0.1
+Digital,Eldon Ring DLC_201,32015.49,312,566.03,Hermes,2026-04-17,0.2
+LuxuryFresh,Hermes Scarf_202,8450.57,27,7.65,Generic,2026-03-25,0.05
+Digital,Eldon Ring DLC_203,30379.46,387,2569.79,Nintendo,2026-03-28,0.2
+Physical,Premium Cherry_204,12312.46,18,5.36,Generic,2026-03-12,0.15
+Physical,Hermes Scarf_205,12229.05,129,4.36,Apple,2026-03-26,0.05
+Digital,Windows 12 Key_206,26009.8,430,4330.5,Hermes,2026-04-06,0.2
+Physical,iPhone 17_207,37358.7,455,9.75,Apple,2026-03-26,0.05
+Physical,MacBook_208,13333.93,94,0.14,Generic,2026-03-27,0.05
+Digital,Eldon Ring DLC_209,31145.66,330,1972.81,Generic,2026-03-20,0.05
+LuxuryFresh,MacBook_210,1636.52,77,4.79,Nintendo,2026-03-20,0.1
+Physical,Hermes Scarf_211,9292.72,182,1.29,Generic,2026-04-20,0.15
+LuxuryFresh,Wagyu Beef_212,8335.63,207,3.34,Nintendo,2026-03-29,0.05
+Physical,Premium Cherry_213,43097.91,214,3.83,Generic,2026-03-19,0.1
+Physical,Premium Cherry_214,2052.7,48,7.07,Hermes,2026-04-21,0.1
+Physical,iPhone 17_215,37131.15,433,1.96,Generic,2026-04-01,0.15
+LuxuryFresh,MacBook_216,29837.39,376,8.77,Generic,2026-04-01,0.15
+LuxuryFresh,Premium Cherry_217,11696.61,30,1.91,Nintendo,2026-04-18,0.15
+Digital,Python Mastery Course_218,47511.16,287,2698.38,Hermes,2026-04-02,0.15
+Physical,Hermes Scarf_219,17799.31,34,6.8,Hermes,2026-04-17,0.05
+Digital,Windows 12 Key_220,14711.16,476,2831.27,Generic,2026-03-16,0.05
+Digital,Eldon Ring DLC_221,1494.35,401,3372.81,Hermes,2026-03-14,0.05
+Digital,Python Mastery Course_222,5524.64,156,4237.13,Nintendo,2026-03-21,0.05
+Digital,Python Mastery Course_223,7047.41,151,872.78,Hermes,2026-04-09,0.15
+Digital,Eldon Ring DLC_224,47945.61,499,2075.97,Apple,2026-04-03,0.05
+Physical,MacBook_225,10478.5,431,6.51,Hermes,2026-04-03,0.15
+Physical,iPhone 17_226,30409.39,236,9.93,Hermes,2026-03-17,0.05
+Digital,Eldon Ring DLC_227,39822.65,159,2781.01,Generic,2026-04-17,0.15
+LuxuryFresh,MacBook_228,10173.3,264,0.38,Nintendo,2026-04-21,0.05
+LuxuryFresh,Hermes Scarf_229,10832.69,223,4.49,Apple,2026-03-18,0.05
+Digital,Python Mastery Course_230,36657.17,275,1182.85,Generic,2026-04-01,0.15
+Physical,Premium Cherry_231,4928.05,290,5.23,Hermes,2026-04-07,0.2
+Digital,Python Mastery Course_232,9385.57,248,3952.38,Generic,2026-04-14,0.2
+Digital,Windows 12 Key_233,19269.1,154,3127.12,Generic,2026-03-17,0.1
+Physical,Hermes Scarf_234,5743.54,370,4.61,Nintendo,2026-04-03,0.2
+LuxuryFresh,MacBook_235,2962.43,393,6.36,Apple,2026-04-14,0.2
+Physical,MacBook_236,373.18,162,8.09,Hermes,2026-03-17,0.1
+LuxuryFresh,Wagyu Beef_237,25302.69,149,1.85,Apple,2026-03-30,0.15
+LuxuryFresh,Hermes Scarf_238,1763.63,302,3.56,Hermes,2026-04-14,0.2
+LuxuryFresh,iPhone 17_239,31053.41,32,4.16,Nintendo,2026-03-22,0.1
+Digital,Windows 12 Key_240,28871.39,484,2893.12,Apple,2026-03-28,0.05
+Digital,Eldon Ring DLC_241,39726.78,337,3986.17,Hermes,2026-04-08,0.15
+LuxuryFresh,Hermes Scarf_242,7767.98,118,3.59,Nintendo,2026-04-11,0.1
+Physical,MacBook_243,39775.3,258,6.73,Hermes,2026-03-16,0.1
+Physical,Wagyu Beef_244,16053.44,93,1.05,Apple,2026-03-26,0.15
+LuxuryFresh,Premium Cherry_245,16837.29,161,4.38,Hermes,2026-04-21,0.05
+Physical,Hermes Scarf_246,22084.68,253,4.84,Generic,2026-04-11,0.2
+LuxuryFresh,Premium Cherry_247,15562.05,447,7.17,Apple,2026-04-11,0.05
+Physical,MacBook_248,17937.94,41,1.77,Generic,2026-04-02,0.05
+LuxuryFresh,iPhone 17_249,34656.38,358,2.21,Hermes,2026-03-22,0.05
+Digital,Windows 12 Key_250,39431.49,208,1002.23,Apple,2026-03-18,0.05
+LuxuryFresh,Hermes Scarf_251,49847.66,448,2.75,Apple,2026-03-29,0.15
+LuxuryFresh,Premium Cherry_252,38155.46,468,7.37,Hermes,2026-03-29,0.05
+Physical,iPhone 17_253,7089.46,377,4.31,Apple,2026-03-31,0.1
+Physical,Premium Cherry_254,48605.36,219,0.6,Nintendo,2026-03-27,0.05
+LuxuryFresh,Wagyu Beef_255,1353.14,257,8.68,Hermes,2026-03-12,0.15
+Physical,Hermes Scarf_256,41770.83,184,5.41,Apple,2026-04-07,0.05
+Digital,Windows 12 Key_257,16603.93,116,905.38,Generic,2026-03-23,0.05
+Digital,Eldon Ring DLC_258,18729.0,219,1372.97,Hermes,2026-04-01,0.15
+LuxuryFresh,MacBook_259,11733.91,66,5.72,Hermes,2026-04-07,0.05
+LuxuryFresh,Premium Cherry_260,37143.71,408,7.66,Hermes,2026-04-06,0.2
+Physical,Premium Cherry_261,31689.24,193,6.83,Nintendo,2026-04-13,0.1
+LuxuryFresh,Wagyu Beef_262,18576.09,490,6.57,Nintendo,2026-03-29,0.1
+Digital,Eldon Ring DLC_263,3537.73,91,2876.98,Apple,2026-03-26,0.05
+LuxuryFresh,Wagyu Beef_264,36604.62,46,3.62,Hermes,2026-04-03,0.1
+Physical,Hermes Scarf_265,33967.06,329,3.48,Hermes,2026-03-26,0.15
+LuxuryFresh,iPhone 17_266,29162.37,222,1.86,Apple,2026-04-04,0.2
+Physical,Premium Cherry_267,14456.2,304,8.54,Apple,2026-04-07,0.2
+Digital,Windows 12 Key_268,21077.81,211,3183.07,Generic,2026-04-17,0.2
+Physical,MacBook_269,23847.9,258,6.52,Apple,2026-03-23,0.2
+Physical,MacBook_270,30851.11,277,3.91,Hermes,2026-03-16,0.1
+Physical,MacBook_271,29503.03,346,3.1,Nintendo,2026-04-04,0.1
+Digital,Windows 12 Key_272,12070.42,203,167.17,Hermes,2026-04-11,0.15
+Physical,MacBook_273,34272.72,157,2.05,Generic,2026-04-10,0.2
+LuxuryFresh,MacBook_274,17008.84,10,9.33,Apple,2026-03-22,0.1
+LuxuryFresh,Wagyu Beef_275,30205.9,33,6.37,Generic,2026-04-05,0.1
+LuxuryFresh,Wagyu Beef_276,19216.04,251,7.01,Generic,2026-04-15,0.05
+Digital,Python Mastery Course_277,48881.67,434,499.4,Generic,2026-03-30,0.15
+Digital,Eldon Ring DLC_278,23740.36,171,4668.04,Generic,2026-03-26,0.05
+Digital,Python Mastery Course_279,42871.36,156,3644.11,Apple,2026-04-16,0.05
+Digital,Windows 12 Key_280,14946.34,272,2799.14,Hermes,2026-04-12,0.05
+LuxuryFresh,MacBook_281,6018.37,433,5.01,Hermes,2026-04-16,0.2
+Digital,Windows 12 Key_282,34234.25,66,1671.7,Nintendo,2026-03-26,0.05
+LuxuryFresh,MacBook_283,47934.87,165,4.93,Nintendo,2026-03-16,0.15
+Digital,Eldon Ring DLC_284,19808.59,419,1008.12,Generic,2026-03-12,0.15
+LuxuryFresh,Wagyu Beef_285,2664.61,242,3.39,Hermes,2026-04-13,0.2
+Digital,Eldon Ring DLC_286,25315.5,153,277.08,Hermes,2026-03-13,0.15
+LuxuryFresh,Premium Cherry_287,26084.78,92,2.39,Nintendo,2026-04-05,0.2
+Digital,Python Mastery Course_288,22198.28,475,896.98,Generic,2026-03-26,0.1
+Digital,Windows 12 Key_289,2791.89,239,3447.63,Generic,2026-04-06,0.2
+Digital,Windows 12 Key_290,9948.83,215,4757.82,Apple,2026-03-23,0.2
+Physical,Hermes Scarf_291,38868.69,246,0.53,Nintendo,2026-03-25,0.2
+Physical,Wagyu Beef_292,19315.91,455,9.54,Nintendo,2026-04-20,0.05
+Digital,Windows 12 Key_293,29762.33,462,701.65,Hermes,2026-04-10,0.2
+Digital,Python Mastery Course_294,29751.96,181,3104.17,Apple,2026-04-12,0.05
+Physical,MacBook_295,43754.35,340,4.51,Nintendo,2026-04-01,0.15
+Digital,Eldon Ring DLC_296,9552.22,462,3274.51,Hermes,2026-03-29,0.2
+LuxuryFresh,Hermes Scarf_297,37205.87,22,8.38,Apple,2026-04-07,0.2
+Physical,iPhone 17_298,20241.6,479,8.21,Nintendo,2026-03-30,0.15
+LuxuryFresh,iPhone 17_299,102.28,180,7.23,Apple,2026-04-06,0.15
+LuxuryFresh,Premium Cherry_300,49995.32,17,5.15,Generic,2026-04-14,0.15
+LuxuryFresh,Hermes Scarf_301,33166.46,147,4.84,Apple,2026-03-25,0.1
+LuxuryFresh,Wagyu Beef_302,49771.19,168,0.92,Nintendo,2026-04-12,0.1
+Digital,Windows 12 Key_303,11683.32,240,1191.3,Generic,2026-04-08,0.1
+Physical,Hermes Scarf_304,12776.21,309,8.14,Apple,2026-04-01,0.15
+Physical,MacBook_305,23694.0,458,8.91,Generic,2026-03-20,0.2
+Physical,iPhone 17_306,14129.96,217,2.42,Generic,2026-04-13,0.15
+LuxuryFresh,Wagyu Beef_307,16346.53,105,3.22,Apple,2026-03-24,0.15
+LuxuryFresh,iPhone 17_308,10579.0,8,2.52,Apple,2026-04-18,0.1
+Digital,Windows 12 Key_309,19046.33,225,1344.9,Nintendo,2026-03-17,0.2
+LuxuryFresh,Premium Cherry_310,8112.42,362,0.94,Hermes,2026-03-14,0.2
+Digital,Windows 12 Key_311,35115.47,399,1895.05,Generic,2026-03-13,0.15
+Digital,Windows 12 Key_312,47983.3,448,975.28,Nintendo,2026-03-21,0.15
+Digital,Eldon Ring DLC_313,14358.72,93,2153.79,Hermes,2026-03-13,0.2
+Digital,Python Mastery Course_314,13993.49,465,2051.23,Generic,2026-04-08,0.05
+Physical,iPhone 17_315,6429.35,29,8.84,Nintendo,2026-04-11,0.05
+Digital,Windows 12 Key_316,8476.26,456,2906.47,Nintendo,2026-03-23,0.05
+Physical,Hermes Scarf_317,44674.05,231,3.57,Generic,2026-03-23,0.2
+LuxuryFresh,iPhone 17_318,32070.58,143,8.08,Nintendo,2026-03-27,0.1
+Digital,Eldon Ring DLC_319,27855.36,266,3480.45,Hermes,2026-04-13,0.05
+Physical,MacBook_320,5184.21,92,8.86,Apple,2026-04-07,0.15
+Physical,iPhone 17_321,6870.55,441,0.11,Nintendo,2026-04-09,0.2
+LuxuryFresh,Premium Cherry_322,47993.22,191,9.61,Nintendo,2026-03-26,0.05
+LuxuryFresh,iPhone 17_323,20760.27,17,6.87,Hermes,2026-03-21,0.1
+LuxuryFresh,MacBook_324,17548.16,472,7.87,Apple,2026-03-29,0.15
+LuxuryFresh,Premium Cherry_325,25049.07,7,4.17,Nintendo,2026-04-05,0.2
+LuxuryFresh,MacBook_326,16200.22,158,3.53,Generic,2026-03-24,0.1
+Physical,Wagyu Beef_327,5808.69,275,7.06,Generic,2026-03-14,0.15
+LuxuryFresh,Hermes Scarf_328,47951.03,84,1.43,Generic,2026-03-19,0.1
+Digital,Eldon Ring DLC_329,35245.94,78,3485.9,Hermes,2026-04-21,0.05
+Physical,Hermes Scarf_330,43599.96,246,4.9,Hermes,2026-04-18,0.05
+Digital,Windows 12 Key_331,7499.61,199,4428.46,Apple,2026-04-11,0.1
+Physical,MacBook_332,407.6,182,0.59,Hermes,2026-03-24,0.15
+Physical,iPhone 17_333,21688.59,172,4.19,Apple,2026-03-30,0.2
+LuxuryFresh,Hermes Scarf_334,16884.1,220,9.91,Apple,2026-03-20,0.2
+LuxuryFresh,Premium Cherry_335,2389.92,269,8.42,Apple,2026-03-21,0.05
+LuxuryFresh,MacBook_336,1553.93,189,7.95,Hermes,2026-03-18,0.2
+Physical,iPhone 17_337,7332.3,225,3.27,Hermes,2026-03-25,0.1
+Physical,iPhone 17_338,47946.28,72,2.86,Generic,2026-03-31,0.1
+Physical,MacBook_339,48661.78,240,4.23,Hermes,2026-04-16,0.05
+LuxuryFresh,Hermes Scarf_340,6115.97,127,8.69,Hermes,2026-03-21,0.2
+Digital,Windows 12 Key_341,13085.96,283,1977.94,Generic,2026-03-13,0.15
+Digital,Windows 12 Key_342,1572.34,319,835.12,Apple,2026-04-17,0.05
+Physical,Hermes Scarf_343,31940.83,44,2.4,Nintendo,2026-04-01,0.1
+Physical,Hermes Scarf_344,48250.99,103,1.18,Generic,2026-03-19,0.15
+Digital,Python Mastery Course_345,30359.8,343,4940.69,Hermes,2026-03-29,0.2
+Digital,Windows 12 Key_346,11306.43,306,4425.43,Apple,2026-03-31,0.1
+LuxuryFresh,MacBook_347,3323.48,257,9.68,Generic,2026-03-20,0.15
+Physical,Hermes Scarf_348,15432.08,228,7.77,Hermes,2026-03-19,0.2
+LuxuryFresh,iPhone 17_349,37744.59,216,6.83,Hermes,2026-04-01,0.15
+Physical,Wagyu Beef_350,16740.18,208,7.8,Generic,2026-04-16,0.15
+LuxuryFresh,Premium Cherry_351,37789.29,11,7.93,Hermes,2026-04-05,0.05
+Digital,Windows 12 Key_352,37546.93,386,2773.92,Generic,2026-03-26,0.15
+Physical,iPhone 17_353,35739.32,170,0.36,Hermes,2026-03-22,0.2
+Physical,Premium Cherry_354,21180.46,413,9.78,Generic,2026-04-02,0.1
+Physical,MacBook_355,2476.98,326,2.24,Generic,2026-04-18,0.05
+Digital,Eldon Ring DLC_356,27646.96,127,306.26,Hermes,2026-03-18,0.15
+Digital,Eldon Ring DLC_357,22049.66,361,4602.58,Nintendo,2026-04-01,0.15
+Digital,Eldon Ring DLC_358,43005.82,266,2836.0,Nintendo,2026-03-22,0.15
+LuxuryFresh,iPhone 17_359,3451.9,94,7.77,Generic,2026-03-26,0.1
+Physical,iPhone 17_360,14776.52,185,0.54,Apple,2026-03-26,0.05
+Physical,Hermes Scarf_361,49455.05,6,6.63,Apple,2026-04-19,0.05
+LuxuryFresh,Premium Cherry_362,13576.0,281,1.18,Hermes,2026-04-12,0.1
+Digital,Python Mastery Course_363,25648.97,355,3599.66,Nintendo,2026-04-13,0.05
+Digital,Windows 12 Key_364,9459.21,388,2019.6,Hermes,2026-04-03,0.2
+Physical,Hermes Scarf_365,16716.01,420,5.01,Generic,2026-04-04,0.05
+Physical,Premium Cherry_366,39561.64,153,7.24,Apple,2026-03-30,0.1
+Physical,iPhone 17_367,15772.95,146,1.15,Nintendo,2026-04-10,0.15
+LuxuryFresh,iPhone 17_368,27929.89,453,9.61,Nintendo,2026-04-05,0.2
+Physical,MacBook_369,20021.51,220,7.96,Generic,2026-04-14,0.15
+Digital,Windows 12 Key_370,37161.19,443,4513.09,Generic,2026-03-23,0.2
+Digital,Python Mastery Course_371,37843.98,61,2243.56,Nintendo,2026-03-16,0.15
+Digital,Eldon Ring DLC_372,2655.94,17,665.99,Hermes,2026-03-28,0.15
+LuxuryFresh,Wagyu Beef_373,3019.64,292,3.59,Generic,2026-04-14,0.05
+Digital,Python Mastery Course_374,43072.69,478,1832.85,Apple,2026-03-24,0.2
+Digital,Windows 12 Key_375,49020.52,95,903.07,Generic,2026-04-05,0.15
+LuxuryFresh,MacBook_376,39963.27,2,3.61,Generic,2026-03-23,0.1
+LuxuryFresh,MacBook_377,25581.54,497,1.95,Nintendo,2026-03-20,0.1
+Physical,iPhone 17_378,33094.43,373,8.13,Nintendo,2026-04-09,0.05
+Physical,Premium Cherry_379,45396.19,325,5.94,Apple,2026-03-23,0.2
+Physical,MacBook_380,32390.37,362,6.24,Nintendo,2026-03-27,0.05
+Physical,Hermes Scarf_381,16950.47,230,0.6,Nintendo,2026-04-09,0.1
+Digital,Eldon Ring DLC_382,24294.04,130,3836.3,Apple,2026-04-08,0.15
+LuxuryFresh,MacBook_383,8985.13,339,1.22,Hermes,2026-03-23,0.1
+LuxuryFresh,Hermes Scarf_384,567.92,56,9.08,Nintendo,2026-04-08,0.2
+Physical,Hermes Scarf_385,16601.72,386,2.33,Hermes,2026-03-25,0.05
+LuxuryFresh,MacBook_386,42934.52,272,4.19,Nintendo,2026-04-17,0.05
+LuxuryFresh,Premium Cherry_387,7142.33,160,8.88,Nintendo,2026-03-31,0.1
+Digital,Windows 12 Key_388,32137.77,271,2138.98,Apple,2026-04-06,0.05
+Physical,MacBook_389,784.94,141,5.77,Hermes,2026-03-21,0.05
+LuxuryFresh,Premium Cherry_390,23291.36,141,7.13,Hermes,2026-03-14,0.15
+LuxuryFresh,MacBook_391,2537.29,417,8.67,Generic,2026-03-28,0.2
+Digital,Eldon Ring DLC_392,49160.73,28,3778.74,Hermes,2026-03-22,0.1
+LuxuryFresh,MacBook_393,43222.18,123,4.99,Apple,2026-04-19,0.2
+LuxuryFresh,Premium Cherry_394,36112.91,1,0.51,Apple,2026-03-23,0.2
+Digital,Eldon Ring DLC_395,3664.93,193,4160.44,Hermes,2026-04-01,0.1
+Digital,Eldon Ring DLC_396,35429.82,94,4759.54,Nintendo,2026-03-21,0.2
+Physical,MacBook_397,37408.34,130,0.86,Hermes,2026-04-04,0.15
+LuxuryFresh,Hermes Scarf_398,44236.2,397,6.87,Nintendo,2026-03-21,0.1
+Digital,Eldon Ring DLC_399,14709.72,410,4459.88,Apple,2026-03-17,0.05
+LuxuryFresh,Premium Cherry_400,27966.73,311,7.99,Nintendo,2026-03-14,0.15
+LuxuryFresh,MacBook_401,42281.47,118,4.99,Nintendo,2026-04-10,0.2
+Physical,Premium Cherry_402,11015.86,417,3.24,Hermes,2026-03-21,0.15
+Physical,Hermes Scarf_403,5861.97,436,5.89,Generic,2026-04-12,0.15
+Physical,Wagyu Beef_404,17824.98,472,2.25,Apple,2026-04-21,0.15
+Digital,Eldon Ring DLC_405,32616.1,129,3547.33,Apple,2026-04-03,0.1
+Digital,Eldon Ring DLC_406,26292.49,353,2206.65,Apple,2026-03-25,0.2
+Physical,Premium Cherry_407,4025.95,434,6.18,Apple,2026-04-13,0.15
+Physical,Wagyu Beef_408,17663.89,89,7.5,Hermes,2026-03-16,0.1
+Digital,Windows 12 Key_409,21886.79,280,302.32,Nintendo,2026-04-04,0.2
+Digital,Windows 12 Key_410,34826.67,172,429.25,Generic,2026-04-10,0.1
+LuxuryFresh,MacBook_411,45623.93,290,2.54,Apple,2026-04-10,0.2
+LuxuryFresh,Wagyu Beef_412,21216.15,446,1.98,Nintendo,2026-04-19,0.1
+Digital,Eldon Ring DLC_413,21184.57,395,1260.36,Generic,2026-03-18,0.2
+Digital,Eldon Ring DLC_414,13373.02,292,3144.44,Generic,2026-04-07,0.1
+LuxuryFresh,MacBook_415,46722.65,14,1.06,Nintendo,2026-04-02,0.05
+LuxuryFresh,iPhone 17_416,44954.81,98,8.16,Generic,2026-03-20,0.2
+LuxuryFresh,iPhone 17_417,33303.95,94,4.85,Hermes,2026-04-02,0.2
+Digital,Eldon Ring DLC_418,11001.33,419,4803.46,Hermes,2026-04-21,0.05
+Physical,Hermes Scarf_419,10433.51,308,2.53,Generic,2026-03-28,0.05
+Physical,MacBook_420,43354.92,209,0.5,Nintendo,2026-04-21,0.2
+LuxuryFresh,Premium Cherry_421,10976.84,414,2.13,Nintendo,2026-03-26,0.15
+Digital,Python Mastery Course_422,35144.18,280,2782.56,Nintendo,2026-03-30,0.2
+Digital,Python Mastery Course_423,7114.66,24,1445.8,Hermes,2026-04-09,0.1
+LuxuryFresh,MacBook_424,37986.25,274,9.8,Generic,2026-04-14,0.05
+Digital,Eldon Ring DLC_425,26544.7,293,2836.95,Apple,2026-03-20,0.1
+Physical,iPhone 17_426,39886.73,330,4.29,Hermes,2026-04-13,0.15
+Physical,Hermes Scarf_427,33978.34,273,9.88,Hermes,2026-03-25,0.2
+Digital,Eldon Ring DLC_428,22420.18,484,1328.15,Generic,2026-03-27,0.15
+Digital,Windows 12 Key_429,4772.55,232,213.1,Nintendo,2026-04-01,0.15
+Physical,Premium Cherry_430,17286.26,358,6.08,Apple,2026-04-15,0.05
+LuxuryFresh,iPhone 17_431,28132.51,459,9.64,Nintendo,2026-03-21,0.1
+Physical,iPhone 17_432,6827.57,218,7.97,Apple,2026-03-18,0.2
+LuxuryFresh,Hermes Scarf_433,22365.96,377,6.0,Apple,2026-04-21,0.1
+LuxuryFresh,Premium Cherry_434,6735.69,10,6.17,Generic,2026-03-19,0.1
+LuxuryFresh,iPhone 17_435,8292.62,265,8.97,Apple,2026-03-28,0.2
+Physical,Premium Cherry_436,20442.17,347,8.97,Apple,2026-04-16,0.05
+Physical,iPhone 17_437,33991.15,137,1.45,Nintendo,2026-03-23,0.1
+Digital,Windows 12 Key_438,6482.24,55,1876.81,Apple,2026-04-08,0.1
+Physical,Hermes Scarf_439,48652.9,94,4.01,Apple,2026-04-10,0.15
+Digital,Python Mastery Course_440,38796.58,385,4922.46,Generic,2026-03-15,0.15
+Physical,Premium Cherry_441,6166.69,126,5.94,Nintendo,2026-04-14,0.15
+LuxuryFresh,MacBook_442,21397.7,252,8.99,Nintendo,2026-03-12,0.2
+Physical,Premium Cherry_443,41767.74,227,3.16,Generic,2026-04-17,0.1
+LuxuryFresh,iPhone 17_444,30440.15,271,7.98,Hermes,2026-03-14,0.2
+Physical,Hermes Scarf_445,23910.41,371,2.98,Apple,2026-03-16,0.05
+Physical,iPhone 17_446,5883.05,433,6.31,Hermes,2026-03-13,0.2
+Physical,MacBook_447,37711.79,230,8.23,Hermes,2026-04-10,0.1
+LuxuryFresh,Premium Cherry_448,100.22,295,8.4,Hermes,2026-03-31,0.2
+LuxuryFresh,Wagyu Beef_449,35480.29,179,9.93,Generic,2026-03-20,0.2
+Digital,Python Mastery Course_450,23390.67,268,458.84,Nintendo,2026-03-24,0.05
+Physical,Wagyu Beef_451,22774.86,5,4.31,Apple,2026-04-11,0.05
+Physical,MacBook_452,37222.62,46,7.3,Hermes,2026-03-28,0.15
+Physical,iPhone 17_453,16541.18,325,6.39,Apple,2026-03-29,0.2
+LuxuryFresh,Hermes Scarf_454,40474.68,363,1.36,Apple,2026-03-15,0.2
+Digital,Eldon Ring DLC_455,24053.11,476,4362.41,Generic,2026-04-01,0.15
+Digital,Windows 12 Key_456,11337.1,154,712.98,Nintendo,2026-04-21,0.15
+Physical,iPhone 17_457,34582.05,469,2.35,Apple,2026-03-15,0.2
+Physical,iPhone 17_458,46005.27,97,8.56,Apple,2026-04-04,0.15
+LuxuryFresh,Wagyu Beef_459,26166.52,246,2.8,Generic,2026-04-16,0.15
+LuxuryFresh,MacBook_460,48794.86,400,0.44,Nintendo,2026-04-02,0.2
+Digital,Python Mastery Course_461,28323.53,62,4235.19,Nintendo,2026-03-25,0.05
+Digital,Python Mastery Course_462,21587.84,403,1564.12,Generic,2026-03-22,0.15
+Physical,Wagyu Beef_463,2851.09,353,0.27,Hermes,2026-03-13,0.2
+Physical,Hermes Scarf_464,44960.32,86,2.5,Hermes,2026-04-19,0.2
+Digital,Python Mastery Course_465,36003.37,428,3844.27,Apple,2026-03-29,0.1
+LuxuryFresh,iPhone 17_466,25921.45,175,6.1,Generic,2026-03-14,0.05
+Digital,Windows 12 Key_467,18040.34,80,2784.54,Hermes,2026-04-05,0.15
+Physical,MacBook_468,29847.54,313,0.41,Apple,2026-03-16,0.2
+Physical,Premium Cherry_469,35960.96,119,9.84,Nintendo,2026-03-31,0.15
+LuxuryFresh,Premium Cherry_470,8522.68,386,4.94,Apple,2026-03-19,0.1
+Physical,Hermes Scarf_471,21155.53,54,4.16,Hermes,2026-03-20,0.05
+Digital,Python Mastery Course_472,22024.12,333,1867.44,Apple,2026-04-03,0.2
+LuxuryFresh,Hermes Scarf_473,43690.71,166,3.74,Nintendo,2026-03-15,0.1
+Physical,iPhone 17_474,46304.17,391,7.32,Generic,2026-03-21,0.2
+LuxuryFresh,iPhone 17_475,758.24,144,0.72,Nintendo,2026-03-21,0.1
+Digital,Eldon Ring DLC_476,33191.34,396,2948.03,Generic,2026-04-20,0.15
+LuxuryFresh,Premium Cherry_477,11126.56,99,4.8,Generic,2026-04-05,0.1
+Physical,MacBook_478,21190.69,235,5.95,Generic,2026-04-09,0.1
+LuxuryFresh,Hermes Scarf_479,9417.76,434,6.81,Hermes,2026-03-18,0.05
+LuxuryFresh,iPhone 17_480,36152.02,342,4.61,Apple,2026-04-21,0.1
+Digital,Windows 12 Key_481,8367.66,153,3853.04,Nintendo,2026-03-21,0.15
+Digital,Python Mastery Course_482,22697.49,287,709.75,Hermes,2026-03-24,0.05
+Physical,Wagyu Beef_483,23195.03,44,1.55,Nintendo,2026-04-16,0.2
+LuxuryFresh,iPhone 17_484,5129.0,175,1.81,Nintendo,2026-03-22,0.2
+Physical,Hermes Scarf_485,49652.08,42,0.81,Hermes,2026-03-13,0.05
+LuxuryFresh,iPhone 17_486,2096.9,1,2.81,Apple,2026-03-19,0.2
+LuxuryFresh,Premium Cherry_487,27821.04,491,8.92,Apple,2026-04-21,0.1
+Physical,iPhone 17_488,45208.45,369,8.86,Nintendo,2026-04-16,0.05
+Physical,MacBook_489,37181.0,24,4.58,Hermes,2026-03-29,0.15
+LuxuryFresh,Hermes Scarf_490,36367.41,377,7.42,Hermes,2026-03-30,0.2
+Digital,Windows 12 Key_491,44202.78,341,1658.62,Hermes,2026-04-21,0.15
+Physical,Hermes Scarf_492,25883.07,57,6.29,Nintendo,2026-03-26,0.2
+Digital,Python Mastery Course_493,34956.54,430,4745.27,Hermes,2026-04-17,0.05
+Physical,Hermes Scarf_494,21347.33,475,2.19,Apple,2026-04-10,0.05
+Digital,Windows 12 Key_495,3519.16,422,1062.47,Nintendo,2026-03-24,0.1
+Digital,Eldon Ring DLC_496,10074.84,132,619.18,Generic,2026-03-19,0.2
+Physical,Premium Cherry_497,46527.51,313,7.92,Generic,2026-04-18,0.15
+Digital,Windows 12 Key_498,43155.67,399,1160.02,Nintendo,2026-04-04,0.15
+LuxuryFresh,Wagyu Beef_499,9043.13,341,7.35,Nintendo,2026-03-20,0.15
+LuxuryFresh,Wagyu Beef_500,46542.35,17,1.12,Generic,2026-04-02,0.1
+LuxuryFresh,Wagyu Beef_501,25997.3,199,5.66,Generic,2026-04-11,0.2
+LuxuryFresh,Wagyu Beef_502,44737.7,443,2.74,Generic,2026-04-21,0.05
+Physical,iPhone 17_503,5275.07,379,9.43,Hermes,2026-03-28,0.1
+Digital,Python Mastery Course_504,48146.28,124,2429.29,Apple,2026-04-20,0.1
+Digital,Eldon Ring DLC_505,2923.38,355,4511.62,Generic,2026-03-12,0.05
+Physical,iPhone 17_506,47972.08,381,5.69,Apple,2026-04-08,0.1
+Digital,Eldon Ring DLC_507,41396.75,168,513.98,Apple,2026-04-12,0.15
+LuxuryFresh,Premium Cherry_508,9074.89,336,1.7,Apple,2026-03-28,0.2
+Physical,Wagyu Beef_509,3827.76,24,8.98,Generic,2026-04-19,0.15
+Digital,Python Mastery Course_510,10480.69,357,952.66,Apple,2026-03-23,0.15
+LuxuryFresh,Premium Cherry_511,30966.67,39,2.39,Generic,2026-03-28,0.15
+LuxuryFresh,iPhone 17_512,15146.33,166,3.37,Generic,2026-03-17,0.1
+Physical,Hermes Scarf_513,26961.5,291,8.49,Generic,2026-03-12,0.2
+LuxuryFresh,iPhone 17_514,36614.67,154,4.42,Generic,2026-04-21,0.2
+LuxuryFresh,Premium Cherry_515,28493.68,471,3.33,Hermes,2026-03-15,0.2
+Digital,Python Mastery Course_516,33823.12,64,3952.78,Hermes,2026-03-22,0.2
+LuxuryFresh,Hermes Scarf_517,15343.53,358,2.49,Nintendo,2026-04-04,0.2
+LuxuryFresh,Hermes Scarf_518,30864.69,21,4.69,Generic,2026-04-21,0.15
+LuxuryFresh,Wagyu Beef_519,11707.47,92,6.93,Nintendo,2026-04-14,0.15
+Physical,MacBook_520,45126.24,7,4.63,Apple,2026-03-28,0.1
+LuxuryFresh,iPhone 17_521,31071.47,333,9.27,Apple,2026-03-15,0.15
+Physical,MacBook_522,24213.7,89,3.22,Apple,2026-04-18,0.15
+Physical,MacBook_523,3115.03,250,0.8,Nintendo,2026-03-16,0.1
+Physical,Wagyu Beef_524,31499.13,350,7.2,Apple,2026-03-25,0.2
+Digital,Eldon Ring DLC_525,25549.55,221,3752.55,Nintendo,2026-04-04,0.1
+LuxuryFresh,Hermes Scarf_526,9197.6,197,0.47,Generic,2026-04-17,0.1
+LuxuryFresh,MacBook_527,15712.47,254,0.36,Apple,2026-04-01,0.05
+Physical,Wagyu Beef_528,49455.64,14,1.59,Nintendo,2026-04-18,0.2
+Digital,Eldon Ring DLC_529,23442.05,427,524.39,Apple,2026-04-17,0.05
+LuxuryFresh,Hermes Scarf_530,27439.94,124,2.2,Generic,2026-04-01,0.2
+Physical,Wagyu Beef_531,29216.89,364,7.4,Apple,2026-03-19,0.2
+LuxuryFresh,Premium Cherry_532,7291.22,387,6.23,Hermes,2026-03-27,0.05
+Physical,MacBook_533,45274.17,90,0.86,Nintendo,2026-04-03,0.05
+Digital,Python Mastery Course_534,28435.75,97,4264.12,Generic,2026-03-18,0.1
+Physical,Wagyu Beef_535,31224.84,388,2.14,Nintendo,2026-03-20,0.1
+Physical,Premium Cherry_536,27799.08,336,8.11,Apple,2026-03-24,0.1
+LuxuryFresh,Hermes Scarf_537,40968.4,241,4.67,Apple,2026-03-18,0.05
+LuxuryFresh,MacBook_538,14222.55,186,0.56,Generic,2026-03-15,0.15
+Digital,Python Mastery Course_539,38468.91,140,212.03,Nintendo,2026-04-07,0.15
+Physical,Hermes Scarf_540,24743.43,123,7.18,Apple,2026-03-13,0.05
+Digital,Windows 12 Key_541,31112.12,78,4969.48,Nintendo,2026-03-14,0.15
+LuxuryFresh,Wagyu Beef_542,21005.08,427,2.87,Generic,2026-04-14,0.2
+Physical,iPhone 17_543,8992.17,1,1.48,Generic,2026-03-24,0.05
+Digital,Windows 12 Key_544,11534.03,370,1435.75,Apple,2026-03-13,0.2
+Digital,Python Mastery Course_545,11698.75,449,979.35,Apple,2026-03-15,0.1
+LuxuryFresh,Hermes Scarf_546,25691.45,88,9.93,Hermes,2026-04-15,0.05
+Physical,MacBook_547,35217.06,348,6.77,Generic,2026-04-01,0.15
+Digital,Python Mastery Course_548,31680.25,82,1969.79,Nintendo,2026-03-22,0.05
+Digital,Windows 12 Key_549,14834.91,264,2455.97,Hermes,2026-04-17,0.1
+LuxuryFresh,iPhone 17_550,2144.08,434,8.17,Hermes,2026-04-01,0.1
+Physical,Premium Cherry_551,29159.12,310,3.18,Hermes,2026-04-03,0.2
+Digital,Windows 12 Key_552,48543.56,113,830.92,Apple,2026-04-20,0.2
+Physical,Premium Cherry_553,41705.26,415,9.79,Apple,2026-04-01,0.2
+LuxuryFresh,Premium Cherry_554,27775.47,138,0.91,Apple,2026-04-17,0.15
+Physical,Hermes Scarf_555,40601.74,174,3.44,Apple,2026-03-29,0.1
+Digital,Eldon Ring DLC_556,26490.18,272,4355.45,Hermes,2026-03-20,0.15
+LuxuryFresh,iPhone 17_557,38265.27,260,3.81,Apple,2026-04-21,0.15
+Physical,Wagyu Beef_558,503.99,95,6.71,Generic,2026-03-30,0.2
+Physical,Premium Cherry_559,27618.3,239,6.83,Generic,2026-04-03,0.05
+Physical,MacBook_560,47735.01,333,7.92,Generic,2026-04-03,0.15
+Physical,Premium Cherry_561,48242.67,6,6.53,Nintendo,2026-04-18,0.2
+LuxuryFresh,MacBook_562,14186.4,151,1.24,Hermes,2026-04-18,0.15
+Physical,Premium Cherry_563,23546.41,117,4.36,Apple,2026-03-23,0.05
+LuxuryFresh,Hermes Scarf_564,10715.35,273,8.64,Apple,2026-03-26,0.05
+LuxuryFresh,Wagyu Beef_565,42699.25,21,1.44,Hermes,2026-04-13,0.05
+Digital,Windows 12 Key_566,15518.32,11,3654.59,Hermes,2026-04-20,0.2
+LuxuryFresh,iPhone 17_567,7179.33,216,3.45,Nintendo,2026-03-17,0.2
+Digital,Windows 12 Key_568,24503.89,421,3726.96,Hermes,2026-03-24,0.2
+Digital,Python Mastery Course_569,3793.01,482,822.09,Nintendo,2026-04-17,0.1
+Digital,Eldon Ring DLC_570,37022.25,192,1216.48,Hermes,2026-04-06,0.1
+Physical,Hermes Scarf_571,37553.18,62,5.68,Apple,2026-03-20,0.1
+Physical,MacBook_572,14109.85,83,3.79,Generic,2026-03-17,0.15
+Digital,Python Mastery Course_573,9366.24,439,2424.59,Hermes,2026-03-22,0.05
+Physical,MacBook_574,24169.47,475,6.98,Hermes,2026-03-29,0.05
+LuxuryFresh,Wagyu Beef_575,13292.08,152,8.17,Generic,2026-03-29,0.1
+Digital,Windows 12 Key_576,13782.05,67,2806.86,Nintendo,2026-03-28,0.2
+Digital,Windows 12 Key_577,14275.15,120,3526.16,Nintendo,2026-04-08,0.05
+Digital,Windows 12 Key_578,28162.89,249,4591.98,Apple,2026-03-18,0.15
+Physical,MacBook_579,1125.88,161,3.6,Generic,2026-03-12,0.2
+Digital,Python Mastery Course_580,1158.1,102,2335.94,Hermes,2026-04-04,0.1
+Physical,Premium Cherry_581,40748.6,242,5.2,Generic,2026-03-25,0.1
+Physical,Hermes Scarf_582,45927.04,374,2.19,Apple,2026-04-03,0.2
+Digital,Eldon Ring DLC_583,38018.44,253,4567.43,Apple,2026-03-22,0.05
+Physical,Premium Cherry_584,31708.59,265,5.45,Nintendo,2026-03-30,0.15
+Digital,Python Mastery Course_585,6477.3,421,1820.03,Generic,2026-03-20,0.15
+Digital,Eldon Ring DLC_586,27174.95,328,2142.13,Hermes,2026-04-02,0.15
+Physical,MacBook_587,42467.15,118,2.95,Generic,2026-04-11,0.2
+Digital,Eldon Ring DLC_588,46122.4,218,4445.44,Hermes,2026-03-31,0.15
+LuxuryFresh,iPhone 17_589,8059.84,65,8.53,Generic,2026-03-22,0.05
+LuxuryFresh,Premium Cherry_590,20975.17,235,5.81,Nintendo,2026-04-10,0.15
+Digital,Python Mastery Course_591,21177.86,61,1117.87,Apple,2026-04-07,0.05
+Physical,Wagyu Beef_592,7277.27,322,6.21,Hermes,2026-03-17,0.2
+Digital,Windows 12 Key_593,19276.66,165,4449.62,Apple,2026-03-22,0.05
+Physical,Premium Cherry_594,151.83,150,9.55,Apple,2026-03-16,0.2
+Digital,Windows 12 Key_595,20645.74,307,4044.15,Apple,2026-04-17,0.05
+Physical,Hermes Scarf_596,12066.45,439,7.66,Nintendo,2026-03-30,0.15
+Physical,Hermes Scarf_597,4474.57,466,7.16,Apple,2026-03-26,0.2
+LuxuryFresh,Hermes Scarf_598,24720.91,397,1.46,Apple,2026-03-28,0.1
+Physical,Hermes Scarf_599,28143.2,355,3.97,Nintendo,2026-03-13,0.1
+LuxuryFresh,Hermes Scarf_600,11726.64,308,5.32,Hermes,2026-04-09,0.05
+LuxuryFresh,Wagyu Beef_601,32014.8,70,1.55,Generic,2026-03-31,0.1
+LuxuryFresh,iPhone 17_602,19215.5,425,4.62,Hermes,2026-03-19,0.15
+Physical,iPhone 17_603,14171.32,215,6.58,Apple,2026-03-31,0.05
+Digital,Python Mastery Course_604,31938.64,49,4867.35,Apple,2026-03-29,0.05
+Physical,Hermes Scarf_605,47648.23,20,1.64,Apple,2026-04-19,0.1
+Physical,iPhone 17_606,23221.92,407,6.38,Generic,2026-04-20,0.2
+LuxuryFresh,Premium Cherry_607,669.0,110,9.67,Nintendo,2026-03-14,0.05
+LuxuryFresh,MacBook_608,16200.62,347,5.06,Apple,2026-04-08,0.2
+LuxuryFresh,Premium Cherry_609,44441.25,49,2.19,Generic,2026-03-15,0.2
+LuxuryFresh,Hermes Scarf_610,10155.06,363,5.93,Generic,2026-04-07,0.05
+LuxuryFresh,Premium Cherry_611,18395.41,170,1.1,Hermes,2026-04-15,0.2
+Digital,Windows 12 Key_612,32311.18,375,4838.61,Generic,2026-04-01,0.15
+Digital,Python Mastery Course_613,38257.38,228,2796.13,Apple,2026-04-01,0.1
+LuxuryFresh,Hermes Scarf_614,10883.88,5,9.18,Hermes,2026-03-16,0.05
+Digital,Python Mastery Course_615,13867.81,348,3186.9,Hermes,2026-04-19,0.1
+Physical,iPhone 17_616,48407.63,354,5.66,Apple,2026-04-01,0.1
+Digital,Windows 12 Key_617,2477.2,36,3303.72,Hermes,2026-04-09,0.15
+Physical,Premium Cherry_618,42047.52,443,2.45,Generic,2026-04-14,0.05
+LuxuryFresh,MacBook_619,4848.23,116,7.36,Nintendo,2026-04-21,0.1
+Physical,Wagyu Beef_620,2388.47,327,9.18,Generic,2026-03-21,0.1
+Physical,MacBook_621,19737.99,63,0.81,Generic,2026-04-01,0.2
+Physical,MacBook_622,10398.52,252,9.11,Hermes,2026-03-26,0.05
+Physical,MacBook_623,9530.32,148,3.03,Hermes,2026-03-24,0.05
+Physical,Hermes Scarf_624,9363.97,117,7.44,Generic,2026-04-13,0.15
+Digital,Windows 12 Key_625,1682.43,462,4731.19,Generic,2026-04-20,0.1
+LuxuryFresh,iPhone 17_626,22202.5,453,0.43,Hermes,2026-03-30,0.1
+Physical,Premium Cherry_627,29210.63,390,6.25,Generic,2026-04-03,0.05
+Digital,Eldon Ring DLC_628,33335.03,317,4800.91,Apple,2026-03-25,0.15
+Digital,Python Mastery Course_629,36389.98,84,1403.43,Apple,2026-03-12,0.15
+Physical,Premium Cherry_630,1776.2,392,9.42,Generic,2026-04-08,0.15
+Digital,Windows 12 Key_631,37237.22,139,2486.0,Apple,2026-03-16,0.15
+LuxuryFresh,iPhone 17_632,48417.04,377,7.39,Nintendo,2026-03-24,0.1
+Physical,MacBook_633,31015.42,40,3.09,Hermes,2026-03-17,0.1
+Digital,Windows 12 Key_634,46449.83,289,2258.53,Apple,2026-04-09,0.1
+Digital,Python Mastery Course_635,26545.19,105,1719.38,Apple,2026-04-16,0.15
+Digital,Windows 12 Key_636,35150.45,254,1311.72,Hermes,2026-04-16,0.05
+Physical,Premium Cherry_637,34768.81,221,4.55,Hermes,2026-04-02,0.05
+LuxuryFresh,Wagyu Beef_638,34039.1,72,1.32,Apple,2026-03-28,0.05
+LuxuryFresh,Premium Cherry_639,46902.65,411,1.1,Generic,2026-03-16,0.05
+LuxuryFresh,Premium Cherry_640,3653.43,468,1.1,Hermes,2026-04-01,0.15
+Physical,iPhone 17_641,35048.42,64,8.43,Hermes,2026-04-21,0.15
+Digital,Eldon Ring DLC_642,25979.83,322,4495.8,Apple,2026-04-21,0.1
+Physical,MacBook_643,46432.99,379,4.46,Nintendo,2026-04-08,0.2
+Physical,Premium Cherry_644,20753.29,311,3.37,Nintendo,2026-04-05,0.2
+Digital,Eldon Ring DLC_645,27411.48,135,4582.12,Generic,2026-04-01,0.2
+Physical,iPhone 17_646,21455.57,474,1.56,Generic,2026-03-30,0.2
+Digital,Windows 12 Key_647,3828.72,145,4236.87,Hermes,2026-03-29,0.15
+Physical,MacBook_648,7115.31,397,8.14,Generic,2026-04-18,0.05
+Digital,Eldon Ring DLC_649,31315.56,34,1489.86,Hermes,2026-04-05,0.2
+Physical,iPhone 17_650,20224.77,10,6.44,Generic,2026-03-23,0.2
+Digital,Python Mastery Course_651,49735.34,97,2531.58,Apple,2026-04-14,0.05
+LuxuryFresh,Wagyu Beef_652,35102.59,191,4.45,Generic,2026-04-12,0.2
+Physical,Hermes Scarf_653,5687.91,484,9.5,Nintendo,2026-04-07,0.05
+LuxuryFresh,iPhone 17_654,10569.51,330,1.73,Apple,2026-04-13,0.2
+Digital,Eldon Ring DLC_655,28074.57,467,1583.84,Nintendo,2026-03-30,0.2
+Physical,MacBook_656,14174.87,417,2.55,Hermes,2026-04-11,0.15
+Physical,Wagyu Beef_657,47029.08,215,3.22,Apple,2026-03-29,0.2
+Digital,Eldon Ring DLC_658,12279.27,143,3193.47,Hermes,2026-03-21,0.05
+LuxuryFresh,MacBook_659,9700.95,135,8.66,Hermes,2026-03-19,0.2
+LuxuryFresh,Premium Cherry_660,27245.69,325,9.9,Nintendo,2026-04-11,0.1
+LuxuryFresh,MacBook_661,30750.99,246,1.58,Hermes,2026-03-22,0.05
+Physical,Premium Cherry_662,9501.54,272,4.96,Generic,2026-04-05,0.1
+LuxuryFresh,MacBook_663,29904.93,445,7.84,Apple,2026-04-19,0.2
+Digital,Python Mastery Course_664,21125.91,437,721.95,Hermes,2026-03-19,0.05
+Digital,Python Mastery Course_665,10864.06,33,1699.65,Generic,2026-04-08,0.1
+Digital,Eldon Ring DLC_666,28991.7,176,3950.12,Nintendo,2026-04-20,0.2
+Digital,Windows 12 Key_667,1591.02,254,902.61,Apple,2026-03-29,0.05
+Physical,Hermes Scarf_668,23811.66,81,4.03,Hermes,2026-03-31,0.2
+Physical,Hermes Scarf_669,31716.39,372,5.2,Nintendo,2026-04-18,0.15
+Physical,Wagyu Beef_670,15948.65,219,2.47,Nintendo,2026-03-15,0.2
+LuxuryFresh,Premium Cherry_671,10804.93,7,6.4,Generic,2026-04-08,0.15
+LuxuryFresh,iPhone 17_672,34432.92,298,8.15,Nintendo,2026-03-18,0.05
+Physical,MacBook_673,32221.63,93,1.12,Apple,2026-03-19,0.1
+LuxuryFresh,Wagyu Beef_674,5625.07,194,0.23,Hermes,2026-04-19,0.1
+Physical,Hermes Scarf_675,36367.66,386,7.45,Apple,2026-04-16,0.05
+LuxuryFresh,Hermes Scarf_676,9102.43,195,2.55,Hermes,2026-04-04,0.2
+Digital,Eldon Ring DLC_677,26007.12,327,3306.2,Nintendo,2026-04-10,0.1
+LuxuryFresh,MacBook_678,26848.53,377,5.34,Hermes,2026-03-27,0.2
+Physical,Hermes Scarf_679,27899.54,109,5.69,Apple,2026-03-15,0.2
+Physical,Premium Cherry_680,23060.92,285,5.61,Hermes,2026-04-15,0.15
+Digital,Eldon Ring DLC_681,16923.05,471,3212.82,Apple,2026-04-02,0.2
+Physical,MacBook_682,6733.96,462,7.4,Nintendo,2026-04-05,0.05
+LuxuryFresh,Premium Cherry_683,7691.65,237,9.69,Apple,2026-04-19,0.2
+Digital,Eldon Ring DLC_684,37000.27,421,1447.16,Apple,2026-04-15,0.15
+LuxuryFresh,iPhone 17_685,16444.18,133,1.26,Generic,2026-03-13,0.2
+Physical,MacBook_686,20215.71,450,0.2,Generic,2026-03-25,0.1
+Digital,Python Mastery Course_687,21338.16,5,1077.96,Nintendo,2026-03-23,0.05
+LuxuryFresh,Hermes Scarf_688,33984.27,50,4.65,Hermes,2026-03-21,0.15
+Physical,Hermes Scarf_689,42399.97,239,4.09,Nintendo,2026-04-05,0.15
+LuxuryFresh,Wagyu Beef_690,38204.85,338,3.29,Hermes,2026-04-05,0.2
+Physical,Premium Cherry_691,8682.35,418,7.56,Nintendo,2026-03-23,0.1
+Digital,Eldon Ring DLC_692,5047.15,42,4812.63,Generic,2026-04-15,0.15
+LuxuryFresh,MacBook_693,16374.46,375,2.28,Hermes,2026-04-18,0.05
+LuxuryFresh,Hermes Scarf_694,32748.9,451,0.51,Apple,2026-03-15,0.05
+Physical,MacBook_695,43555.17,137,1.19,Nintendo,2026-04-18,0.1
+Digital,Eldon Ring DLC_696,49394.47,141,1811.24,Hermes,2026-04-02,0.15
+Physical,Wagyu Beef_697,47967.65,363,4.03,Nintendo,2026-04-16,0.05
+LuxuryFresh,Premium Cherry_698,34624.42,136,6.97,Hermes,2026-04-08,0.05
+Physical,Hermes Scarf_699,5005.28,28,9.96,Nintendo,2026-04-09,0.05
+Digital,Windows 12 Key_700,14889.36,366,4496.62,Nintendo,2026-03-14,0.15
+Digital,Python Mastery Course_701,46210.15,51,3551.15,Apple,2026-03-19,0.2
+LuxuryFresh,iPhone 17_702,36774.25,333,6.57,Nintendo,2026-04-01,0.2
+Physical,Hermes Scarf_703,38738.71,387,7.31,Generic,2026-03-14,0.2
+Digital,Eldon Ring DLC_704,42611.68,318,782.0,Apple,2026-03-31,0.15
+Physical,Premium Cherry_705,27732.35,112,9.62,Generic,2026-04-15,0.15
+LuxuryFresh,Premium Cherry_706,23753.46,5,6.48,Apple,2026-04-16,0.05
+Physical,Premium Cherry_707,10553.37,160,5.83,Generic,2026-03-12,0.15
+LuxuryFresh,iPhone 17_708,34083.44,303,9.29,Hermes,2026-04-03,0.15
+Physical,Wagyu Beef_709,21614.63,162,9.79,Apple,2026-04-14,0.05
+Digital,Eldon Ring DLC_710,48762.28,494,600.44,Generic,2026-04-02,0.2
+Physical,Wagyu Beef_711,36632.23,94,0.83,Nintendo,2026-03-27,0.2
+LuxuryFresh,iPhone 17_712,5031.04,205,5.71,Generic,2026-04-19,0.15
+LuxuryFresh,Wagyu Beef_713,15194.91,298,6.14,Nintendo,2026-04-13,0.1
+LuxuryFresh,Premium Cherry_714,36873.94,286,4.87,Nintendo,2026-03-30,0.2
+Physical,MacBook_715,33796.34,229,6.95,Generic,2026-03-16,0.2
+LuxuryFresh,Wagyu Beef_716,36998.59,179,9.17,Generic,2026-04-09,0.1
+LuxuryFresh,iPhone 17_717,1188.87,101,5.84,Apple,2026-03-17,0.1
+Digital,Windows 12 Key_718,11303.95,482,4687.24,Hermes,2026-03-31,0.05
+LuxuryFresh,Premium Cherry_719,20112.36,204,2.31,Hermes,2026-03-17,0.05
+Digital,Eldon Ring DLC_720,11611.12,15,4272.85,Generic,2026-04-15,0.05
+Digital,Python Mastery Course_721,8786.98,7,682.64,Generic,2026-03-18,0.05
+LuxuryFresh,iPhone 17_722,43088.86,493,0.52,Generic,2026-04-17,0.05
+Physical,iPhone 17_723,47225.36,474,1.28,Hermes,2026-04-18,0.2
+LuxuryFresh,Wagyu Beef_724,18589.05,356,4.92,Hermes,2026-04-17,0.05
+Digital,Windows 12 Key_725,23818.98,70,1612.17,Hermes,2026-04-09,0.2
+Digital,Python Mastery Course_726,41738.32,363,4156.97,Generic,2026-04-18,0.2
+LuxuryFresh,iPhone 17_727,34277.08,423,5.43,Nintendo,2026-04-14,0.15
+Digital,Windows 12 Key_728,1355.83,109,4053.79,Hermes,2026-04-05,0.15
+Digital,Windows 12 Key_729,36122.03,187,1258.54,Hermes,2026-04-03,0.1
+LuxuryFresh,iPhone 17_730,4702.69,17,6.6,Apple,2026-03-30,0.2
+Digital,Windows 12 Key_731,3536.98,20,3125.27,Apple,2026-04-16,0.05
+LuxuryFresh,Wagyu Beef_732,33609.26,74,4.79,Nintendo,2026-04-10,0.15
+Digital,Windows 12 Key_733,39196.07,352,535.28,Hermes,2026-04-08,0.05
+Physical,MacBook_734,16883.98,158,7.78,Nintendo,2026-04-17,0.05
+LuxuryFresh,Wagyu Beef_735,22552.39,480,2.01,Apple,2026-03-16,0.05
+LuxuryFresh,MacBook_736,12605.98,49,6.0,Nintendo,2026-04-07,0.15
+LuxuryFresh,Hermes Scarf_737,33729.32,316,7.57,Hermes,2026-04-11,0.05
+Digital,Python Mastery Course_738,39475.76,312,4275.42,Hermes,2026-04-01,0.05
+LuxuryFresh,Wagyu Beef_739,32602.14,485,4.44,Apple,2026-03-29,0.05
+Digital,Eldon Ring DLC_740,49284.1,121,2056.89,Generic,2026-03-28,0.15
+Digital,Eldon Ring DLC_741,12740.75,287,2973.98,Apple,2026-03-15,0.1
+LuxuryFresh,iPhone 17_742,15452.1,407,5.66,Hermes,2026-03-19,0.05
+Physical,Premium Cherry_743,45238.89,104,2.69,Hermes,2026-03-23,0.1
+LuxuryFresh,Hermes Scarf_744,29866.29,467,5.19,Generic,2026-04-03,0.2
+Digital,Windows 12 Key_745,32688.69,473,1995.42,Apple,2026-04-04,0.2
+Digital,Eldon Ring DLC_746,49342.97,76,4451.28,Hermes,2026-03-27,0.1
+Digital,Eldon Ring DLC_747,24749.44,235,2910.91,Apple,2026-03-19,0.05
+Digital,Python Mastery Course_748,27311.58,404,2340.51,Nintendo,2026-04-01,0.2
+Physical,MacBook_749,30596.05,40,5.3,Hermes,2026-03-27,0.15
+LuxuryFresh,iPhone 17_750,9794.7,336,0.12,Generic,2026-04-21,0.1
+Physical,Hermes Scarf_751,27110.46,187,9.9,Generic,2026-03-18,0.1
+LuxuryFresh,MacBook_752,42580.73,321,9.88,Apple,2026-04-06,0.15
+Digital,Eldon Ring DLC_753,33294.63,344,329.34,Hermes,2026-03-27,0.15
+Physical,Premium Cherry_754,47441.44,329,6.73,Generic,2026-03-30,0.15
+Physical,iPhone 17_755,39718.38,320,0.18,Nintendo,2026-04-16,0.1
+Digital,Eldon Ring DLC_756,28563.47,75,3561.7,Hermes,2026-04-09,0.2
+Physical,Hermes Scarf_757,18785.32,456,7.49,Nintendo,2026-04-10,0.15
+LuxuryFresh,iPhone 17_758,45641.49,238,2.09,Hermes,2026-04-13,0.15
+Digital,Eldon Ring DLC_759,42527.35,310,2478.66,Apple,2026-03-24,0.2
+Physical,Premium Cherry_760,10701.37,427,0.47,Nintendo,2026-04-20,0.15
+Physical,iPhone 17_761,27973.53,351,2.8,Hermes,2026-03-26,0.1
+Digital,Python Mastery Course_762,30817.77,274,138.4,Hermes,2026-03-23,0.1
+Physical,iPhone 17_763,42615.86,2,9.88,Nintendo,2026-03-27,0.05
+Digital,Eldon Ring DLC_764,21479.49,240,3407.71,Nintendo,2026-04-07,0.1
+LuxuryFresh,Hermes Scarf_765,8318.45,439,0.68,Generic,2026-04-21,0.05
+Digital,Python Mastery Course_766,3847.4,52,1966.03,Nintendo,2026-03-18,0.2
+LuxuryFresh,iPhone 17_767,21357.15,221,1.56,Generic,2026-04-13,0.05
+Physical,Premium Cherry_768,21525.36,376,4.33,Hermes,2026-04-03,0.15
+Digital,Python Mastery Course_769,9636.68,485,1859.7,Generic,2026-03-19,0.15
+Physical,Premium Cherry_770,7786.89,136,6.33,Hermes,2026-04-07,0.1
+Digital,Eldon Ring DLC_771,15477.35,156,1424.56,Nintendo,2026-04-18,0.1
+Physical,iPhone 17_772,1054.94,29,1.54,Generic,2026-04-16,0.1
+Digital,Eldon Ring DLC_773,14659.96,417,2830.25,Generic,2026-04-06,0.2
+Digital,Eldon Ring DLC_774,45525.55,216,722.21,Generic,2026-04-09,0.2
+Digital,Python Mastery Course_775,45128.1,252,202.82,Hermes,2026-04-15,0.2
+LuxuryFresh,Hermes Scarf_776,20176.12,457,5.05,Nintendo,2026-04-17,0.2
+Physical,iPhone 17_777,33623.25,99,4.82,Hermes,2026-03-31,0.1
+Physical,iPhone 17_778,36979.94,89,7.47,Hermes,2026-04-01,0.05
+Digital,Eldon Ring DLC_779,25292.89,368,3758.77,Hermes,2026-04-19,0.2
+Digital,Eldon Ring DLC_780,22752.57,416,3555.79,Generic,2026-04-16,0.15
+Digital,Eldon Ring DLC_781,6109.18,464,2509.85,Hermes,2026-04-18,0.05
+LuxuryFresh,Hermes Scarf_782,30816.93,456,0.41,Hermes,2026-04-07,0.15
+Digital,Python Mastery Course_783,2276.23,315,1533.74,Nintendo,2026-04-13,0.1
+Physical,Premium Cherry_784,11691.06,264,4.35,Nintendo,2026-04-16,0.1
+Physical,Premium Cherry_785,36560.93,263,9.61,Generic,2026-04-01,0.15
+LuxuryFresh,Premium Cherry_786,21716.36,44,2.96,Generic,2026-03-26,0.1
+Digital,Eldon Ring DLC_787,11487.11,499,1334.43,Generic,2026-04-19,0.1
+Digital,Eldon Ring DLC_788,21425.43,86,165.46,Nintendo,2026-03-22,0.1
+LuxuryFresh,Wagyu Beef_789,1522.44,26,9.13,Nintendo,2026-04-10,0.2
+LuxuryFresh,Hermes Scarf_790,6661.6,383,1.95,Apple,2026-03-22,0.15
+LuxuryFresh,Premium Cherry_791,38659.44,211,0.99,Hermes,2026-04-04,0.05
+Digital,Python Mastery Course_792,11419.96,51,4325.85,Hermes,2026-03-27,0.05
+Physical,Wagyu Beef_793,21626.82,63,2.0,Hermes,2026-04-09,0.1
+Physical,Wagyu Beef_794,16697.67,42,9.6,Generic,2026-03-28,0.2
+Digital,Windows 12 Key_795,2773.01,145,1630.67,Apple,2026-03-18,0.05
+Physical,Premium Cherry_796,18714.95,442,3.37,Hermes,2026-04-10,0.15
+Physical,Premium Cherry_797,10974.3,5,9.97,Hermes,2026-03-20,0.1
+LuxuryFresh,Premium Cherry_798,16471.09,337,2.57,Nintendo,2026-03-28,0.1
+Physical,MacBook_799,33421.09,389,5.6,Apple,2026-04-03,0.1
+LuxuryFresh,Wagyu Beef_800,17298.38,93,5.3,Apple,2026-04-02,0.15
+Physical,Hermes Scarf_801,4867.69,365,4.62,Apple,2026-04-16,0.15
+Digital,Windows 12 Key_802,16605.64,326,2510.58,Hermes,2026-03-27,0.05
+Physical,iPhone 17_803,9156.98,120,1.88,Generic,2026-04-18,0.1
+Physical,Wagyu Beef_804,22665.29,128,1.74,Apple,2026-04-02,0.1
+LuxuryFresh,MacBook_805,8680.11,132,3.68,Hermes,2026-03-20,0.1
+LuxuryFresh,Premium Cherry_806,5048.61,387,4.67,Apple,2026-04-17,0.05
+Digital,Eldon Ring DLC_807,32888.1,273,4349.71,Apple,2026-03-17,0.1
+Physical,Wagyu Beef_808,15624.47,289,7.06,Generic,2026-03-22,0.2
+Digital,Windows 12 Key_809,12461.8,82,2793.97,Generic,2026-04-07,0.05
+LuxuryFresh,Premium Cherry_810,8803.67,327,8.85,Hermes,2026-04-01,0.1
+Digital,Python Mastery Course_811,13314.29,334,1303.33,Hermes,2026-04-14,0.1
+Physical,iPhone 17_812,24367.62,217,9.86,Apple,2026-04-13,0.15
+Digital,Python Mastery Course_813,42702.06,171,1155.53,Generic,2026-04-11,0.15
+LuxuryFresh,Premium Cherry_814,48114.04,67,0.36,Hermes,2026-03-14,0.05
+Physical,Wagyu Beef_815,38292.14,239,8.83,Generic,2026-04-01,0.1
+LuxuryFresh,Wagyu Beef_816,32091.64,151,8.65,Apple,2026-04-12,0.2
+Physical,MacBook_817,35823.87,436,7.04,Apple,2026-04-01,0.05
+Physical,MacBook_818,6470.93,357,8.5,Hermes,2026-04-20,0.15
+Physical,Premium Cherry_819,12880.3,172,6.61,Nintendo,2026-04-08,0.2
+Physical,Wagyu Beef_820,35481.82,158,8.24,Generic,2026-03-31,0.15
+LuxuryFresh,iPhone 17_821,32061.44,354,6.77,Generic,2026-04-20,0.2
+Physical,iPhone 17_822,42434.94,471,9.71,Apple,2026-03-27,0.15
+Digital,Eldon Ring DLC_823,5021.22,216,1400.03,Generic,2026-03-24,0.05
+Digital,Eldon Ring DLC_824,20869.16,416,602.37,Generic,2026-04-15,0.05
+Digital,Python Mastery Course_825,20443.25,316,898.81,Generic,2026-03-20,0.05
+Digital,Python Mastery Course_826,35788.81,435,2878.81,Generic,2026-03-25,0.15
+Digital,Eldon Ring DLC_827,49175.68,294,1272.43,Nintendo,2026-04-15,0.1
+Digital,Python Mastery Course_828,36197.02,193,3877.29,Apple,2026-04-19,0.05
+LuxuryFresh,Hermes Scarf_829,6717.85,102,8.52,Apple,2026-04-08,0.15
+LuxuryFresh,Hermes Scarf_830,37308.2,301,0.4,Generic,2026-04-03,0.1
+Physical,MacBook_831,1623.04,152,2.04,Hermes,2026-03-18,0.1
+Physical,Premium Cherry_832,15132.34,299,0.64,Generic,2026-03-23,0.2
+Digital,Windows 12 Key_833,34229.07,51,1973.39,Hermes,2026-03-31,0.05
+Digital,Eldon Ring DLC_834,22962.68,269,3199.27,Nintendo,2026-03-27,0.1
+Physical,Wagyu Beef_835,1526.87,298,7.47,Hermes,2026-04-20,0.1
+LuxuryFresh,Hermes Scarf_836,5825.97,468,9.42,Hermes,2026-04-01,0.15
+Digital,Eldon Ring DLC_837,21993.26,321,648.63,Nintendo,2026-04-10,0.1
+Digital,Eldon Ring DLC_838,11470.77,41,860.88,Apple,2026-04-21,0.2
+LuxuryFresh,Premium Cherry_839,27001.53,310,2.23,Generic,2026-04-11,0.1
+Physical,Hermes Scarf_840,33327.64,136,3.78,Generic,2026-03-16,0.05
+LuxuryFresh,MacBook_841,3641.75,162,9.39,Hermes,2026-03-14,0.05
+Physical,Premium Cherry_842,46419.04,192,9.16,Hermes,2026-04-17,0.15
+Physical,MacBook_843,48740.96,278,3.24,Apple,2026-04-04,0.2
+Physical,Hermes Scarf_844,39540.47,445,0.97,Apple,2026-03-21,0.05
+Physical,iPhone 17_845,35955.55,40,3.17,Generic,2026-04-09,0.1
+Digital,Python Mastery Course_846,37122.93,449,3122.71,Nintendo,2026-04-10,0.1
+Digital,Windows 12 Key_847,3804.78,156,2626.19,Hermes,2026-04-19,0.15
+Physical,iPhone 17_848,46122.76,414,3.01,Generic,2026-04-06,0.2
+Physical,Premium Cherry_849,18741.04,139,9.81,Generic,2026-03-18,0.05
+LuxuryFresh,Hermes Scarf_850,47229.17,378,1.69,Nintendo,2026-03-18,0.05
+Digital,Eldon Ring DLC_851,29735.51,54,2132.47,Hermes,2026-03-24,0.1
+Digital,Windows 12 Key_852,12204.74,270,3303.65,Nintendo,2026-04-06,0.05
+Digital,Windows 12 Key_853,23172.52,247,4728.96,Apple,2026-04-06,0.1
+LuxuryFresh,Premium Cherry_854,11785.48,278,6.19,Generic,2026-04-03,0.05
+Physical,Hermes Scarf_855,45150.83,173,7.98,Generic,2026-04-08,0.15
+LuxuryFresh,Hermes Scarf_856,26160.39,473,9.07,Generic,2026-04-09,0.2
+Digital,Eldon Ring DLC_857,12117.02,24,3269.03,Apple,2026-03-29,0.15
+Digital,Python Mastery Course_858,40491.38,244,369.51,Generic,2026-03-19,0.15
+Physical,Wagyu Beef_859,35688.29,311,0.67,Nintendo,2026-04-12,0.1
+Digital,Python Mastery Course_860,28680.33,150,3272.57,Apple,2026-04-04,0.1
+Digital,Eldon Ring DLC_861,7589.08,426,3984.12,Generic,2026-03-22,0.1
+Digital,Python Mastery Course_862,29217.71,337,2318.64,Generic,2026-04-19,0.05
+Digital,Eldon Ring DLC_863,28710.61,38,4377.57,Generic,2026-03-20,0.1
+Physical,Premium Cherry_864,12715.54,153,1.49,Nintendo,2026-03-23,0.05
+Physical,iPhone 17_865,42158.77,259,3.54,Hermes,2026-04-04,0.05
+LuxuryFresh,iPhone 17_866,44267.09,149,0.56,Hermes,2026-03-17,0.2
+LuxuryFresh,Hermes Scarf_867,49907.25,68,5.64,Generic,2026-04-01,0.2
+Physical,Hermes Scarf_868,48223.4,56,8.5,Generic,2026-04-10,0.1
+Digital,Eldon Ring DLC_869,43926.84,206,1283.95,Hermes,2026-04-17,0.1
+Digital,Python Mastery Course_870,49415.76,79,3786.39,Nintendo,2026-03-21,0.2
+LuxuryFresh,MacBook_871,10686.64,342,9.96,Generic,2026-03-28,0.1
+Digital,Eldon Ring DLC_872,23146.45,362,3049.01,Generic,2026-04-14,0.15
+LuxuryFresh,iPhone 17_873,6205.01,400,5.35,Apple,2026-03-24,0.05
+Digital,Windows 12 Key_874,23642.99,208,1618.11,Hermes,2026-03-25,0.05
+LuxuryFresh,Wagyu Beef_875,7509.42,424,5.35,Generic,2026-03-14,0.05
+Physical,Hermes Scarf_876,44515.32,210,1.34,Nintendo,2026-04-20,0.05
+Physical,Premium Cherry_877,13571.84,232,9.11,Apple,2026-04-20,0.15
+Physical,Wagyu Beef_878,27598.91,247,0.98,Nintendo,2026-03-29,0.15
+Digital,Windows 12 Key_879,8808.49,458,4423.89,Generic,2026-04-21,0.2
+LuxuryFresh,iPhone 17_880,12270.21,74,9.65,Generic,2026-03-29,0.1
+LuxuryFresh,Premium Cherry_881,41431.63,329,4.43,Generic,2026-04-18,0.05
+LuxuryFresh,Hermes Scarf_882,24534.44,97,3.57,Generic,2026-03-21,0.05
+Digital,Windows 12 Key_883,21951.61,244,4177.46,Nintendo,2026-04-19,0.05
+Physical,Hermes Scarf_884,5389.31,230,2.39,Apple,2026-03-30,0.05
+Physical,Wagyu Beef_885,38077.1,413,1.26,Apple,2026-03-25,0.1
+Physical,Premium Cherry_886,13409.36,335,8.38,Generic,2026-04-04,0.1
+Digital,Windows 12 Key_887,26964.92,260,2133.05,Nintendo,2026-03-21,0.2
+Digital,Eldon Ring DLC_888,23679.22,351,2764.31,Generic,2026-03-25,0.2
+Physical,Premium Cherry_889,42602.29,496,4.81,Apple,2026-03-21,0.05
+LuxuryFresh,iPhone 17_890,47903.94,219,6.36,Apple,2026-03-23,0.05
+Physical,Wagyu Beef_891,41055.85,439,9.85,Nintendo,2026-04-03,0.2
+Digital,Eldon Ring DLC_892,34055.97,274,4716.89,Hermes,2026-04-04,0.2
+Digital,Python Mastery Course_893,46307.83,153,945.12,Nintendo,2026-04-21,0.1
+LuxuryFresh,Premium Cherry_894,27670.1,370,7.59,Hermes,2026-04-11,0.15
+Digital,Python Mastery Course_895,39393.81,418,2493.62,Hermes,2026-03-27,0.2
+Physical,iPhone 17_896,17128.92,265,9.72,Apple,2026-03-26,0.1
+LuxuryFresh,Premium Cherry_897,42681.46,480,5.36,Hermes,2026-04-16,0.05
+Digital,Python Mastery Course_898,18174.77,382,390.74,Apple,2026-03-29,0.2
+LuxuryFresh,Wagyu Beef_899,11624.66,174,2.53,Apple,2026-04-21,0.05
+Physical,iPhone 17_900,17583.65,179,8.39,Hermes,2026-03-30,0.15
+Physical,Hermes Scarf_901,7294.96,32,2.81,Hermes,2026-04-05,0.1
+Physical,Wagyu Beef_902,1495.66,459,3.39,Nintendo,2026-04-04,0.2
+LuxuryFresh,Wagyu Beef_903,44040.84,494,6.82,Hermes,2026-04-08,0.2
+Digital,Windows 12 Key_904,14155.68,403,4017.73,Nintendo,2026-03-22,0.15
+LuxuryFresh,Wagyu Beef_905,37839.51,9,3.87,Nintendo,2026-03-26,0.15
+LuxuryFresh,MacBook_906,49166.66,17,3.65,Hermes,2026-03-21,0.1
+Physical,Premium Cherry_907,29957.83,396,4.01,Hermes,2026-03-13,0.1
+Digital,Windows 12 Key_908,19466.34,476,2831.48,Apple,2026-04-09,0.2
+LuxuryFresh,MacBook_909,8317.58,350,3.06,Generic,2026-04-15,0.2
+LuxuryFresh,Wagyu Beef_910,34641.61,474,4.96,Generic,2026-04-02,0.1
+Digital,Python Mastery Course_911,40481.93,409,1225.22,Generic,2026-04-12,0.15
+Digital,Windows 12 Key_912,46087.53,296,2767.45,Generic,2026-04-14,0.2
+Digital,Eldon Ring DLC_913,46511.18,411,3410.58,Hermes,2026-04-09,0.05
+Digital,Windows 12 Key_914,47253.82,85,4255.5,Generic,2026-04-16,0.15
+LuxuryFresh,Premium Cherry_915,49324.57,63,1.89,Nintendo,2026-04-21,0.2
+LuxuryFresh,MacBook_916,44388.93,238,4.83,Hermes,2026-04-06,0.05
+LuxuryFresh,Hermes Scarf_917,26669.05,5,4.3,Nintendo,2026-04-11,0.05
+Digital,Python Mastery Course_918,1765.2,174,3276.72,Apple,2026-04-02,0.2
+LuxuryFresh,Wagyu Beef_919,36389.52,397,6.49,Apple,2026-03-27,0.1
+Digital,Python Mastery Course_920,35127.43,47,3663.99,Hermes,2026-03-27,0.05
+Physical,iPhone 17_921,17591.8,124,1.29,Apple,2026-04-05,0.1
+LuxuryFresh,Wagyu Beef_922,1883.65,19,5.51,Hermes,2026-03-15,0.05
+LuxuryFresh,iPhone 17_923,47292.68,365,0.54,Hermes,2026-04-19,0.05
+LuxuryFresh,MacBook_924,32542.24,19,4.97,Hermes,2026-04-12,0.2
+Physical,Premium Cherry_925,17710.65,30,2.23,Nintendo,2026-04-07,0.2
+LuxuryFresh,MacBook_926,20524.19,213,5.38,Nintendo,2026-04-15,0.1
+Physical,Wagyu Beef_927,13338.62,374,3.52,Generic,2026-04-05,0.15
+Digital,Windows 12 Key_928,34745.99,75,3208.72,Nintendo,2026-04-17,0.05
+Digital,Python Mastery Course_929,15909.08,362,1912.17,Generic,2026-03-25,0.2
+LuxuryFresh,iPhone 17_930,24019.1,56,1.4,Hermes,2026-03-24,0.2
+Physical,Wagyu Beef_931,2001.84,70,2.6,Nintendo,2026-04-09,0.1
+Digital,Python Mastery Course_932,15012.28,161,1973.49,Nintendo,2026-04-18,0.2
+Physical,Hermes Scarf_933,35752.07,349,4.92,Generic,2026-04-07,0.15
+Digital,Eldon Ring DLC_934,2271.13,142,4076.87,Apple,2026-04-06,0.1
+Physical,MacBook_935,41943.34,16,5.96,Nintendo,2026-03-21,0.15
+Digital,Eldon Ring DLC_936,42636.38,306,2505.56,Apple,2026-04-02,0.1
+LuxuryFresh,Premium Cherry_937,10890.04,9,0.16,Apple,2026-03-14,0.15
+Digital,Eldon Ring DLC_938,30211.87,179,3474.31,Hermes,2026-04-10,0.1
+Digital,Windows 12 Key_939,9069.21,478,3838.93,Nintendo,2026-03-21,0.05
+LuxuryFresh,MacBook_940,20477.61,327,3.75,Apple,2026-04-03,0.05
+LuxuryFresh,Premium Cherry_941,48229.4,487,1.68,Hermes,2026-04-18,0.05
+Physical,Hermes Scarf_942,29061.28,90,8.11,Nintendo,2026-03-16,0.15
+LuxuryFresh,Premium Cherry_943,17912.67,186,8.88,Apple,2026-04-01,0.05
+Digital,Eldon Ring DLC_944,32091.8,421,1462.63,Hermes,2026-04-02,0.1
+Digital,Eldon Ring DLC_945,36633.48,336,1143.32,Generic,2026-04-05,0.1
+Physical,MacBook_946,10700.67,351,6.75,Apple,2026-03-12,0.15
+LuxuryFresh,Hermes Scarf_947,35653.77,61,9.08,Nintendo,2026-04-03,0.1
+LuxuryFresh,MacBook_948,24215.58,286,4.52,Hermes,2026-03-31,0.1
+Physical,Premium Cherry_949,22658.1,424,3.51,Hermes,2026-03-21,0.15
+LuxuryFresh,Premium Cherry_950,29132.15,393,7.57,Apple,2026-03-21,0.05
+LuxuryFresh,iPhone 17_951,37248.62,122,9.7,Apple,2026-03-24,0.05
+Physical,MacBook_952,5365.17,310,2.74,Hermes,2026-03-31,0.15
+Digital,Eldon Ring DLC_953,44581.32,480,1537.86,Nintendo,2026-03-18,0.15
+LuxuryFresh,Premium Cherry_954,48127.31,71,3.98,Generic,2026-03-14,0.05
+Digital,Python Mastery Course_955,36179.67,92,4988.95,Generic,2026-04-06,0.1
+Digital,Windows 12 Key_956,38772.98,47,3798.23,Hermes,2026-03-13,0.15
+Digital,Eldon Ring DLC_957,6464.95,367,3941.34,Apple,2026-04-05,0.1
+LuxuryFresh,Wagyu Beef_958,40425.34,233,6.86,Apple,2026-04-08,0.05
+LuxuryFresh,Premium Cherry_959,31680.83,302,4.75,Generic,2026-04-01,0.05
+Physical,MacBook_960,25200.92,134,3.51,Nintendo,2026-04-05,0.1
+Physical,iPhone 17_961,49676.12,458,2.18,Apple,2026-04-14,0.2
+Digital,Python Mastery Course_962,33428.13,196,1314.53,Apple,2026-04-11,0.2
+Digital,Windows 12 Key_963,35609.42,280,492.86,Hermes,2026-03-18,0.15
+Physical,iPhone 17_964,9647.56,347,7.06,Hermes,2026-04-11,0.05
+Digital,Eldon Ring DLC_965,40329.4,95,3707.2,Nintendo,2026-04-03,0.2
+Physical,Hermes Scarf_966,21299.28,291,1.59,Apple,2026-03-19,0.1
+Digital,Eldon Ring DLC_967,35776.06,433,156.92,Hermes,2026-04-01,0.15
+Physical,Hermes Scarf_968,20243.32,160,4.52,Apple,2026-04-04,0.05
+Physical,Hermes Scarf_969,4617.12,338,9.93,Hermes,2026-03-25,0.15
+Digital,Python Mastery Course_970,44538.69,386,3856.25,Hermes,2026-03-12,0.1
+Digital,Python Mastery Course_971,25844.71,6,1660.85,Generic,2026-04-10,0.15
+LuxuryFresh,Hermes Scarf_972,22157.88,201,5.18,Apple,2026-04-17,0.2
+Digital,Eldon Ring DLC_973,44193.83,284,1662.89,Apple,2026-04-16,0.15
+LuxuryFresh,Hermes Scarf_974,469.13,483,7.63,Generic,2026-04-02,0.1
+Digital,Eldon Ring DLC_975,11751.45,12,3818.84,Generic,2026-03-20,0.15
+Physical,Hermes Scarf_976,30138.53,337,5.2,Nintendo,2026-03-31,0.2
+Physical,Wagyu Beef_977,3707.29,450,9.1,Generic,2026-04-02,0.1
+Physical,Hermes Scarf_978,30492.45,488,3.79,Hermes,2026-04-01,0.15
+Physical,Wagyu Beef_979,10161.34,308,3.09,Apple,2026-04-17,0.1
+Digital,Eldon Ring DLC_980,45773.17,226,1403.76,Hermes,2026-03-12,0.05
+Digital,Eldon Ring DLC_981,23487.72,480,4810.95,Generic,2026-04-07,0.15
+Digital,Python Mastery Course_982,17191.36,160,3089.25,Apple,2026-04-03,0.05
+LuxuryFresh,MacBook_983,1858.67,417,2.15,Hermes,2026-03-28,0.15
+LuxuryFresh,MacBook_984,40612.7,382,2.67,Apple,2026-03-30,0.15
+Physical,Hermes Scarf_985,1436.24,399,0.68,Hermes,2026-03-21,0.15
+LuxuryFresh,Wagyu Beef_986,1047.63,38,0.42,Nintendo,2026-03-26,0.15
+Digital,Eldon Ring DLC_987,45318.61,193,946.15,Generic,2026-04-07,0.05
+Physical,iPhone 17_988,17193.8,414,6.02,Nintendo,2026-03-21,0.05
+Digital,Eldon Ring DLC_989,37959.3,164,2973.76,Apple,2026-04-02,0.05
+Digital,Python Mastery Course_990,10324.81,485,1022.73,Apple,2026-03-28,0.1
+Digital,Eldon Ring DLC_991,6266.09,116,2543.81,Nintendo,2026-04-04,0.1
+Physical,iPhone 17_992,13294.86,379,3.58,Generic,2026-04-17,0.2
+Digital,Windows 12 Key_993,2288.08,342,1343.1,Apple,2026-04-11,0.1
+Physical,MacBook_994,44225.17,295,5.89,Nintendo,2026-04-13,0.05
+Physical,MacBook_995,45061.25,76,1.3,Apple,2026-03-28,0.05
+Digital,Python Mastery Course_996,49251.4,194,1505.09,Hermes,2026-04-08,0.1
+Physical,Hermes Scarf_997,12804.66,393,9.8,Nintendo,2026-04-15,0.1
+Physical,MacBook_998,42982.78,207,0.25,Hermes,2026-04-16,0.05
+Physical,Wagyu Beef_999,10396.62,217,1.21,Hermes,2026-03-25,0.2

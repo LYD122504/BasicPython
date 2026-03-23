@@ -1,0 +1,6 @@
+type,name,price,stock,extra_attr,brand,color,origin,material
+Physical,MacBook Pro,14999.0,50,2.1,Apple,Space Gray,China,Aluminum
+Physical,Nintendo Switch,2299.0,120,0.4,Nintendo,Neon Blue/Red,Japan,Plastic
+Digital,Elden Ring DLC,198.0,999,15.5,FromSoftware,Digital Gold,Sweden,Bits
+Physical,HHKB Keyboard,2499.0,20,0.8,PFU,Snow White,Japan,PBT
+Digital,Python Course,99.0,5000,1.2,MasteryIO,Blue,Cloud,Knowledge
